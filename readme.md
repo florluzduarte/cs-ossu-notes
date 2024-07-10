@@ -16,10 +16,17 @@ Fecha de inicio: 05/07/2024
 ### 0. Pre-requisites:
 (Matemáticas de secundario)
 
+💪 [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)  
+[Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)  
+[Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)  
+[Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)  
+[Integrated Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)  
+[Integrated Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)  
+
 ### 1. Intro to CS:
 (For students to try out CS and see if it's right for them)  
 
-**CS50p: Introduction to Programming with Python**  
+💪 **CS50p: Introduction to Programming with Python**  
 - Link: [https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
 - Fecha inicio: 05/07/2024
 - Fecha finalización: 

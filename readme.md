@@ -31,6 +31,12 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 
 ### 1. Intro to CS:
 (For students to try out CS and see if it's right for them)  
+**Topics covered**:
+`simple programs`
+`simple data structures`
+`computation`
+`imperative programming`
+`basic data structures and algorithms`
 
 💪 **CS50p: Introduction to Programming with Python**  
 - Link: [https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
@@ -53,7 +59,20 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 ### 2. Core CS:
 (Corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take)  
 
-#### 2A. CORE PROGRAMMING
+#### 2A. CORE PROGRAMMING  
+**Topics covered**:
+`functional programming`
+`design for testing`
+`program requirements`
+`common design patterns`
+`unit testing`
+`object-oriented design`
+`static typing`
+`dynamic typing`
+`ML-family languages (via Standard ML)`
+`Lisp-family languages (via Racket)`
+`Ruby`
+`and more`  
 
 **Systematic program design**
 - Link: [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
@@ -111,7 +130,14 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 - Apuntes: 
 - Repositorio: 
 
-#### 2B. CORE MATHS
+#### 2B. CORE MATHS  
+**Topics covered**:
+`discrete mathematics`
+`mathematical proofs`
+`basic statistics`
+`O-notation`
+`discrete probability`
+`and more`
 
 **Calculus 1A: Differentiation**
 - Link: [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
@@ -145,7 +171,144 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 - Apuntes: 
 - Repositorio: 
 
-#### 2C. CS TOOLS
+#### 2C. CS TOOLS  
+**Topics covered**:
+`terminals and shell scripting`
+`vim`
+`command line environments`
+`version control`
+`and more`
+
+**The missing semester of your CS education**
+- Link: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)  
+- Institución: MIT Open Learning Library 
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio:  
+
+#### 2D. CORE SYSTEMS  
+**Topics covered**:
+`procedural programming`
+`manual memory management`
+`boolean algebra`
+`gate logic`
+`memory`
+`computer architecture`
+`assembly`
+`machine language`
+`virtual machines`
+`high-level languages`
+`compilers`
+`operating systems`
+`network protocols`
+`and more`
+
+**Build a modern computer from first principles: From NAND to Tetris**
+- Link: [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) 
+- Institución: Hebrew University of Jerusalem   
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio:  
+
+**Build a modern computer from first principles: From NAND to Tetris (Part II)**
+- Link: [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  
+- Institución: Hebrew University of Jerusalem   
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio:  
+
+**Operating Systems: Three Easy Pieces**
+- Link: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)   
+- Institución: University of Wisconsin-Madison     
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio: 
+
+**Computer Networking: a Top-Down Approach**
+- Link: [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)  
+- Institución: University of Massachusetts Amherst      
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio:  
+
+#### 2E. CORE THEORY  
+**Topics covered**:
+`divide and conquer`
+`sorting and searching`
+`randomized algorithms`
+`graph search`
+`shortest paths`
+`data structures`
+`greedy algorithms`
+`minimum spanning trees`
+`dynamic programming`
+`NP-completeness`
+`and more`
+
+**Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
+- Link: [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)  
+- Institución: Stanford University        
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio: 
+
+**Graph Search, Shortest Paths, and Data Structures**
+- Link: [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)  
+- Institución: Stanford University        
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio: 
+
+**Greedy Algorithms, Minimun Spanning Trees, and Dynamic Programming**
+- Link: [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)  
+- Institución: Stanford University        
+- Fecha inicio:  
+- Fecha finalización:  
+- Apuntes:  
+- Repositorio: 
+
+#### 2F. CORE SECURITY
+**Topics covered**
+`Confidentiality, Integrity, Availability`
+`Secure Design`
+`Defensive Programming`
+`Threats and Attacks`
+`Network Security`
+`Cryptography`
+`and more`
+
+#### 2G. CORE APPLICATIONS 
+**Topics covered**:
+`Agile methodology`
+`REST`
+`software specifications`
+`refactoring`
+`relational databases`
+`transaction processing`
+`data modeling`
+`neural networks`
+`supervised learning`
+`unsupervised learning`
+`OpenGL`
+`ray tracing`
+`and more`
+
+#### 2H. CORE ETHICS  
+**Topics covered**:
+`Social Context`
+`Analytical Tools`
+`Professional Ethics`
+`Intellectual Property`
+`Privacy and Civil Liberties`
+`and more`
+
 
 -----
 

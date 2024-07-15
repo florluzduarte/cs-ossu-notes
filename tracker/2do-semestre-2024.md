@@ -27,4 +27,9 @@ Fecha de inicio: 08/07/2024
 ----
 ✍️ **Día 5 --> Viernes 12 de Julio del 2024**
 
-- 
+(1.5 hs.)
+- Avanzando por la mitad de la unidad 10 de aritmética sobre multiplicaciones con fracciones y números mixtos.  
+- Aprendiendo los primeros métodos de str en Python, llegando a la mitad de la semana 0 del curso. ¿Por qué le habrán puesto str y no string? Jaja una locura 🫠.    
+----
+✍️ **Día 6 --> Julio del 2024**
+

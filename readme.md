@@ -21,6 +21,9 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 (Matemáticas de secundario)
 
 💪 [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)  
+Fecha de inicio: 08/07/2024
+Fecha de finalización: 
+
 [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)  
 [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)  
 [Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)  
@@ -41,8 +44,8 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 💪 **CS50p: Introduction to Programming with Python**  
 - Link: [https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
 - Institución: Harvard
-- Fecha inicio: 05/07/2024
-- Fecha finalización: 
+- Fecha de inicio: 05/07/2024
+- Fecha de finalización: 
 - Apuntes: [[cs50p-intro-cs-python]]
 - Repositorio: 
 

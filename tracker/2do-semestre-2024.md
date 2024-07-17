@@ -51,6 +51,14 @@ Fecha de inicio: 08/07/2024
 - También terminé el video de la semana cero de CS50p. Aún me queda pendiente el material adicional y los ejercicios, pero la teoría ya está lista.
 - Viendo lo mucho que avancé hoy en 3 horas me parece que sería interesante intentar mantener un ritmo de al menos 2 horas por día de lunes a viernes para tener un ritmo de avance interesante y constante. 2 horas por día no es mucho y creo que puedo cumplirlo si le doy prioridad a la cursada.  
 ----
-✍️ **Día 8 --> de Julio del 2024**
+✍️ **Día 8 --> Miércoles 17 de Julio del 2024**
+
+(2.15 hr.)
+- La unidad 13 de fracciones está casi lista, me quedan muy pocos ejercicios para completarla.  
+- Estuve mirando los videos adicionales de la semana 0. El video sobre VSCode me gustó un montón, con los comandos básicos para usar en la terminal. Además se suma a las cosas que vengo viendo en los últimos días.  
+- Entregué el primer desafío de CS50p, me quedan unos cuantos para entretenerme mañana.  
+- Ayer empecé a leer uno de los libros recomendados que se llama [[the-linux-command-line]] . En mis tiempos libres voy a ir avanzando con la lectura que suma al resto del proceso de estudio.  
+----
+✍️ **Día 9 --> de Julio del 2024**
 
 - 

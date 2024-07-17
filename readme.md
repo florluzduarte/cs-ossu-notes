@@ -323,6 +323,14 @@ Fecha de finalización:
 ### 4. Extras
 (Cursos y libros externos a la currícula que fui sumando porque me interesaban)  
 
+#### 4A. LIBROS
+
+💪 **The Linux Command Line** (William Shotts - 5ta edición)
+Link: [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+Fecha de inicio: 16/07/2024
+Fecha de finalización: 
+Apuntes: [[the-linux-command-line]]
+
 ----
 
 ### 5. Final Project

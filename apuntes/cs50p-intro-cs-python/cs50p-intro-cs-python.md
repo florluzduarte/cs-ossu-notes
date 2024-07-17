@@ -1,3 +1,4 @@
+Fecha de inicio: 05/07/2024
 
 # 🏛️ CS50p: Intro to programming with Python
 

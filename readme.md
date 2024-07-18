@@ -21,8 +21,8 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 (Matemáticas de secundario)
 
 💪 [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)  
-Fecha de inicio: 08/07/2024
-Fecha de finalización: 
+- Fecha de inicio: 08/07/2024  
+- Fecha de finalización:  
 
 [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)  
 [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)  

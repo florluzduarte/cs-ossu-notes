@@ -59,6 +59,11 @@ Fecha de inicio: 08/07/2024
 - Entregué el primer desafío de CS50p, me quedan unos cuantos para entretenerme mañana.  
 - Ayer empecé a leer uno de los libros recomendados que se llama [[the-linux-command-line]] . En mis tiempos libres voy a ir avanzando con la lectura que suma al resto del proceso de estudio.  
 ----
-✍️ **Día 9 --> de Julio del 2024**
+✍️ **Día 9 --> Jueves 18 de Julio del 2024**
 
-- 
+(Total: 3.5 hs. - 2 hs. de matemáticas, 1.5 hs. de CS50p)
+- Terminé el módulo 13 de Aritmética y empecé con el módulo 15. Ya en la recta final del curso 💪  
+- Estuve revisando otros materiales sugeridos en el discord de OSSU para practicar los pre-requisitos de matemáticas, así que le dí una mirada al libro de Pre-Cálculo de OpenStax + los videos de YouTube de Professor Leonard. Ambos recursos parecen interesantes y voy a intentar mezclar los materiales para generar una mejor base.  
+- Pude resolver 3 desafíos más de la semana 0 de CS50p. Me quedó uno por la mitad pendiente para entregarlo mañana y así terminar la primer semana.  
+----
+✍️ **Día 10 --> de Julio del 2024**

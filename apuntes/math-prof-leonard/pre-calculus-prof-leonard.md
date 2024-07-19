@@ -8,7 +8,8 @@ Playlist Prof. Leonard: https://www.youtube.com/watch?v=FkUEsP9efFg&list=PLDesaq
 -----
 ## ✍️ Video 1: Introduction to functions (Precalculus - College Algebra 2)
 
-Link: https://youtu.be/FkUEsP9efFg?si=T_-nraZNjdThIug1
+Link: https://youtu.be/FkUEsP9efFg?si=T_-nraZNjdThIug1  
+Material complementario en español: https://youtu.be/z66PI_ihbMM?si=qAFe491nXoh-BAk3  
 
 **Definición de función:**  
 

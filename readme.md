@@ -325,11 +325,11 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 
 #### 4A. LIBROS
 
-💪 **The Linux Command Line** (William Shotts - 5ta edición)
-Link: [The Linux Command Line](https://linuxcommand.org/tlcl.php)
-Fecha de inicio: 16/07/2024
-Fecha de finalización: 
-Apuntes: [[the-linux-command-line]]
+💪 **The Linux Command Line** (William Shotts - 5ta edición) 
+- Link: [The Linux Command Line](https://linuxcommand.org/tlcl.php)  
+- Fecha de inicio: 16/07/2024  
+- Fecha de finalización:  
+- Apuntes: [[the-linux-command-line]]  
 
 ----
 

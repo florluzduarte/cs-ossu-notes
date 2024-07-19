@@ -66,4 +66,19 @@ Fecha de inicio: 08/07/2024
 - Estuve revisando otros materiales sugeridos en el discord de OSSU para practicar los pre-requisitos de matemáticas, así que le dí una mirada al libro de Pre-Cálculo de OpenStax + los videos de YouTube de Professor Leonard. Ambos recursos parecen interesantes y voy a intentar mezclar los materiales para generar una mejor base.  
 - Pude resolver 3 desafíos más de la semana 0 de CS50p. Me quedó uno por la mitad pendiente para entregarlo mañana y así terminar la primer semana.  
 ----
-✍️ **Día 10 --> de Julio del 2024**
+✍️ **Día 10 --> Viernes 19 de Julio del 2024**
+
+(Total: 2.5 hs. - 2 hs. de matemáticas, 0.5 hs. de CS50p)
+- Nuevo módulo de aritmética terminado (el 15), avanzando al último módulo de este curso 💪 
+- Terminé de entregar todos los desafíos del set 0 de ejercicios de CS50 Python 🚀 Me había quedado pendiente de ayer el ejercicio de la calculadora de propinas, así que hoy empecé terminando eso y vi los primeros minutos de la clase de condicionales de la semana 1.  
+- Encontré los videos del canal de YouTube [El traductor de ingeniería](https://www.youtube.com/@eltraductor_ok) para complementar los recursos de matemáticas pero sumando algo de material en español. 
+- Al final trabajé un poco más con el curso de Aritmética y llegué hasta la mitad del módulo 17 (exponentes y potencias).  
+----
+
+⏳️ **Semana 2:**  12 horas ⏳️
+
+----
+✍️ **Día 11 --> de Julio del 2024**
+
+()
+- 

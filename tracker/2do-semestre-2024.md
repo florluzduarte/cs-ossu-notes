@@ -78,7 +78,15 @@ Fecha de inicio: 08/07/2024
 ⏳️ **Semana 2:**  12 horas ⏳️
 
 ----
-✍️ **Día 11 --> de Julio del 2024**
+✍️ **Día 11 --> Sábado 20 de Julio del 2024**
 
-()
-- 
+(45 min)
+- Terminé el curso de Aritmética en Khan Academy 🚀, se estaba volviendo un poco tedioso, pero ya estoy lista para pasar al siguiente.   
+- Empecé a leer el libro complementario "Think Python" y me está gustando bastante, me viene bien para complementar el curso de CS50p. También estuve revisando el otro curso introductorio de Python propuesto por en el plan de estudios (Python for Everyone) y quizás le de una mirada más adelante para seguir complementando. Esta vez me gustaría hacerme una base bien sólida de Python para poder usar eso como cimientos de mi camino en el backend 💪.  
+----
+✍️ **Día 12 --> Lunes 22 de Julio del 2024**
+
+(2.5 hs. de matemática)
+- Cambié de estrategia para el repaso general de matemática. Como sugerencia del grupo de discord de la OSSU, decidí cambiar de Khan Academy a las clases online de Professor Leonard, usando como material de soporte un libro de OpenStax. Pero a diferencia de lo sugerido, creo que tengo que empezar mi repaso desde un punto previo a pre-cálculo, ya que noto que algunos de los temas no los recuerdo para nada. Mirando un poco el contenido, definí que el punto de partida es Intermediate Algebra. Hoy miré los primeros 7 videos de esta playlist y me conseguí el libro de OpenStax que cubre más o menos los mismos temas para practicar.   
+-----
+✍️ **Día 13 --> de Julio del 2024**

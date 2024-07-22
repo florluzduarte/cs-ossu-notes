@@ -1,6 +1,6 @@
 # 🧮 Pre-Requisitos de Matemáticas para OSSU
 
-Dentro de la [cursada de OSSU](ossu-empezando-la-cursada), el único pre-requisito que existe es tener los conocimientos de matemáticas que equivalen a los temas que se suelen ver en el nivel secundario (o high school, como todo el plan de estudios tiene equivalencias del sistema educativo de EE.UU.).   
+Dentro de la [cursada de OSSU](ossu-empezando-la-cursada.md), el único pre-requisito que existe es tener los conocimientos de matemáticas que equivalen a los temas que se suelen ver en el nivel secundario (o high school, como todo el plan de estudios tiene equivalencias del sistema educativo de EE.UU.).   
 Para poder cumplir con estos requisitos, la currícula nos propone resolver los desafíos de un par de cursos de [Khan Academy](https://www.khanacademy.org/) que contemplan temas como: Aritmética, Álgebra, Geometría, Cálculo y 3 módulos combinados que completan y profundizan los temas anteriores. 
 
 En mi experiencia, **Khan Academy está bueno para empezar y animarse a recuperar esos conocimientos perdidos del secundario, pero se puede volver un poco denso y lento**, ya que cada curso está compuesto por muchos módulos y tienden a repetir bastante los temas.  

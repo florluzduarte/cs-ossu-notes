@@ -20,15 +20,33 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 ### 0. Pre-requisitos:
 (Matemáticas de secundario)
 
-💪 [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)  
+✅ [Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)  
 - Fecha de inicio: 08/07/2024  
-- Fecha de finalización:  
+- Fecha de finalización:  20/07/2024  
 
 [Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)  
-[Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)  
+- Fecha de inicio:  
+- Fecha de finalización:  
+
+💪 [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)  
+- Fecha de inicio:  20/07/2024  
+- Fecha de finalización:  
+
 [Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)  
+- Fecha de inicio:  
+- Fecha de finalización:  
+
 [Integrated Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)  
+- Fecha de inicio:  
+- Fecha de finalización:  
+
 [Integrated Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)  
+- Fecha de inicio:  
+- Fecha de finalización:  
+
+[Pre-Calculus](https://openstax.org/details/books/precalculus-2e/)
+- Fecha de inicio:  
+- Fecha de finalización:  
 
 ----
 
@@ -323,13 +341,19 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 ### 4. Extras
 (Cursos y libros externos a la currícula que fui sumando porque me interesaban)  
 
-#### 4A. LIBROS
+#### 📚️ 4A. LIBROS
 
 💪 **The Linux Command Line** (William Shotts - 5ta edición) 
 - Link: [The Linux Command Line](https://linuxcommand.org/tlcl.php)  
 - Fecha de inicio: 16/07/2024  
 - Fecha de finalización:  
 - Apuntes: [[the-linux-command-line]]  
+
+💪 **Think Python** (Allen B. Downey - 2da edición)  
+- Link: https://greenteapress.com/wp/think-python-2e/   
+- Fecha de inicio: 19/07/2024  
+- Fecha de finalización:  
+- Apuntes:  [[think-python]] 
 
 ----
 

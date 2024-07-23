@@ -89,4 +89,13 @@ Fecha de inicio: 08/07/2024
 (2.5 hs. de matemática)
 - Cambié de estrategia para el repaso general de matemática. Como sugerencia del grupo de discord de la OSSU, decidí cambiar de Khan Academy a las clases online de Professor Leonard, usando como material de soporte un libro de OpenStax. Pero a diferencia de lo sugerido, creo que tengo que empezar mi repaso desde un punto previo a pre-cálculo, ya que noto que algunos de los temas no los recuerdo para nada. Mirando un poco el contenido, definí que el punto de partida es Intermediate Algebra. Hoy miré los primeros 7 videos de esta playlist y me conseguí el libro de OpenStax que cubre más o menos los mismos temas para practicar.   
 -----
-✍️ **Día 13 --> de Julio del 2024**
+✍️ **Día 13 --> Martes 23 de Julio del 2024**
+
+(Total: 3.5 hs. - 2 hs. de matemática y 1.5 hs. de CS50p)
+- Terminé todos los videos de la primera clase de Intermediate Algebra con el Prof. Leonard. Estuvo muy bien, fue un gran repaso de ecuaciones, simplificación y factoreo. Además hice un par de ejercicios del módulo 1 (ecuaciones lineares) del libro de OpenStax. Me dejé algunos ejercicios más para ir practicando todos los temas vistos hasta acá, antes de seguir avanzando con cosas nuevas. Mi meta es armarme de una buena base y además me lo estoy disfrutando bastante.   
+- Terminé también de ver los videos teóricos de la semana 1 de CS50 Python que cubrían el tema de condicionales. Ahora solo me queda avanzar con los 5 desafíos de este módulo.   
+-----
+✍️ **Día 14 --> de Julio del 2024**
+
+()
+- 

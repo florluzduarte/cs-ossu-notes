@@ -25,3 +25,4 @@ Tipos de datos disponibles en Python 🐍
 - str --> cadenas de caracteres  
 - int --> números enteros (negativos y positivos)  
 - float --> números decimales (negativos y positivos)  
+- bool --> True or False  

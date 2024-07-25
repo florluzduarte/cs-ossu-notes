@@ -24,27 +24,13 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 - Fecha de inicio: 08/07/2024  
 - Fecha de finalización:  20/07/2024  
 
-[Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)  
-- Fecha de inicio:  
+💪 [Intermediate Algebra](https://openstax.org/details/books/intermediate-algebra-2e)
+- Link lecciones: https://www.youtube.com/playlist?list=PL3F15A8958082DEDE
+- Fecha de inicio: 22/07/2024  
 - Fecha de finalización:  
 
-💪 [Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)  
-- Fecha de inicio:  20/07/2024  
-- Fecha de finalización:  
-
-[Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge)  
-- Fecha de inicio:  
-- Fecha de finalización:  
-
-[Integrated Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge)  
-- Fecha de inicio:  
-- Fecha de finalización:  
-
-[Integrated Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge)  
-- Fecha de inicio:  
-- Fecha de finalización:  
-
-[Pre-Calculus](https://openstax.org/details/books/precalculus-2e/)
+[Pre-Calculus](https://openstax.org/details/books/precalculus-2e/)  
+- Link lecciones: https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP
 - Fecha de inicio:  
 - Fecha de finalización:  
 
@@ -59,16 +45,14 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 `imperative programming`
 `basic data structures and algorithms`
 
-💪 **CS50p: Introduction to Programming with Python**  
-- Link: [https://cs50.harvard.edu/python/](https://cs50.harvard.edu/python/)
+💪 [CS50p: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 - Institución: Harvard
 - Fecha de inicio: 05/07/2024
 - Fecha de finalización: 
 - Apuntes: [[cs50p-intro-cs-python]]
 - Repositorio: 
 
-**Introduction to Computer Science and Programming using Python**
-- Link: [https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)  
+[Introduction to Computer Science and Programming using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)
 - Institución: MIT  
 - Fecha inicio: 
 - Fecha finalización: 
@@ -95,16 +79,14 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 `Ruby`
 `and more`  
 
-**Systematic program design**
-- Link: [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
+[Systematic program design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
 - Institución: UBCx
 - Fecha inicio: 
 - Fecha finalización: 
 - Apuntes: 
 - Repositorio: 
 
-**Programming Languages (Part A)**
-- Link: [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
+[Programming Languages (Part A)](https://www.coursera.org/learn/programming-languages)
 - Institución: University of Washington
 - Fecha inicio: 
 - Fecha finalización: 
@@ -364,4 +346,5 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 
 ## 👀 Otros materiales útiles
 
-https://github.com/ForrestKnight/open-source-cs
+https://github.com/ForrestKnight/open-source-cs  
+https://github.com/jwasham/coding-interview-university/blob/main/translations/README-es.md#el-plan-diario  

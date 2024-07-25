@@ -95,7 +95,16 @@ Fecha de inicio: 08/07/2024
 - Terminé todos los videos de la primera clase de Intermediate Algebra con el Prof. Leonard. Estuvo muy bien, fue un gran repaso de ecuaciones, simplificación y factoreo. Además hice un par de ejercicios del módulo 1 (ecuaciones lineares) del libro de OpenStax. Me dejé algunos ejercicios más para ir practicando todos los temas vistos hasta acá, antes de seguir avanzando con cosas nuevas. Mi meta es armarme de una buena base y además me lo estoy disfrutando bastante.   
 - Terminé también de ver los videos teóricos de la semana 1 de CS50 Python que cubrían el tema de condicionales. Ahora solo me queda avanzar con los 5 desafíos de este módulo.   
 -----
-✍️ **Día 14 --> de Julio del 2024**
+✍️ **Día 14 --> Miércoles 24 de Julio del 2024**
 
-()
-- 
+(2.5 hs. de intermediate algebra)
+- Uff el cambio que siento ahora que me pasé a estudiar con los libros de OpenStax y las lecciones del Prof. Leonard. Es otra cosa, se siente como estar en una clase del CBC de nuevo, o tratando de preparar un ingreso a la universidad. La cantidad de ejercicios que proponen estos libros por cada tema es gigante. Pero me la estoy pasando muy bien resolviendo más de dos horas de ecuaciones por día. Me gustaría dedicarle aún más tiempo pero bueno paso a paso para no quemarme. Aparte que no sería prudente quitarle horas a otras cosas tampoco.  
+-----
+✍️ **Día 15 --> Jueves 25 de Julio del 2024**
+
+(Total: 3 hs. - 1 hs. de algebra y 2 hs. de CS50 Python)
+- Día de ejercicios de ecuaciones lineales. Llegué al primer punto de control de la unidad 2 del libro de OpenStax y tengo 70 ejercicios para practicar. Hoy resolví los primeros 20. Hasta ahora todo bien, podría estar todo el día haciendo esto.  
+- Después estuve trabajando en el set 1 de ejercicios de CS50p que corresponden a la semana 1 (Conditionals). Hoy pude entregar 3 ejercicios y me quedan 2 más para armar mañana.  
+- Estoy contenta con el ritmo que estoy logrando. Aún no tuve oportunidad de completar las 4 horas diarias que me puse como meta, pero voy mejorando y creo que 3 horas diarias es algo que probablemente pueda mantener en el tiempo si me organizo correctamente.  
+----
+✍️ **Día 16 --> de Julio del 2024**

@@ -18,3 +18,10 @@ Fecha de inicio: 12/07/2024 (Cada viernes por X y Threads)
 - Pre-requisitos de matemática --> Avanzando muy bien, casi termino el primer curso sobre Aritmética + revisando materiales para complementar sobre cálculo, según sugieren en el Discord de OSSU.  
 - CS50 Python --> Termino la semana con el primer set de ejercicios resueltos 🚀. Los primeros 5 desafíos de la cursada. Me entusiasma aprender un lenguaje nuevo.    
 ----
+(26/07/2024)
+
+💾 **OSSU - Computer Science - Semana 3** 💾
+
+- Pre-requisitos de matemática --> Subí de nivel 🚀. Ahora estoy con funciones, polinomios y otros ejercicios típicos de Álgebra. Cambié Khan Academy por los libros gratuitos de OpenStax + lecciones en YouTube de estos temas. 
+- CS50 Python --> Segunda set de ejercicios completos. Lista para empezar a trabajar en los loops 💪
+-------

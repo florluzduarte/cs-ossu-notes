@@ -20,9 +20,30 @@ Hasta el momento algo que me está faltando es un poco más de contexto sobre Py
 
 ---
 
-Tipos de datos disponibles en Python 🐍
+**Tipos de datos disponibles en Python** 🐍
 
 - str --> cadenas de caracteres  
 - int --> números enteros (negativos y positivos)  
 - float --> números decimales (negativos y positivos)  
 - bool --> True or False  
+- list --> conjuntos de valores ordenados (array)  
+- dict --> estructura de datos que relaciona "key" con "value" (object)  
+
+----
+
+**Built-in functions:**
+
+💾 Range --> permite generar una `list` con valores automáticamente. Empezando el array desde el 0.  
+
+```python
+num_list = range(3)
+# [0, 1, 3]
+```
+
+💾  Len --> Permite averiguar el length de un array
+
+```python
+students = ["Hermione", "Harry", "Ron"]
+students_length = len(students)
+```
+

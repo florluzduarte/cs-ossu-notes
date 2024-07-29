@@ -107,4 +107,28 @@ Fecha de inicio: 08/07/2024
 - Después estuve trabajando en el set 1 de ejercicios de CS50p que corresponden a la semana 1 (Conditionals). Hoy pude entregar 3 ejercicios y me quedan 2 más para armar mañana.  
 - Estoy contenta con el ritmo que estoy logrando. Aún no tuve oportunidad de completar las 4 horas diarias que me puse como meta, pero voy mejorando y creo que 3 horas diarias es algo que probablemente pueda mantener en el tiempo si me organizo correctamente.  
 ----
-✍️ **Día 16 --> de Julio del 2024**
+✍️ **Día 16 --> Viernes 26 de Julio del 2024**
+
+(1.5 hs de CS50 Python)
+- Cerrando la semana con los ejercicios del set 1 terminados. Ya entregué los 5 desafíos propuestos. Me doy cuenta que me está ayudando a dividir cada problema en partecitas aún más pequeñas, lo cual hace que escriba mejor código y más rápido, porque tengo claro qué es lo que estoy haciendo en cada paso.
+----
+
+⏳️ **Semana 2:**  13 horas 45 minutos ⏳️
+
+------
+✍️ **Día 17 --> Domingo 28 de Julio del 2024**
+
+(30 min)
+- Estoy resolviendo los desafíos de la primera sección de ecuaciones lineales. Aprovecho los tiempos libres para ir haciendo ejercicios de a poco. Me sirve para practicar porque suelo tener errores por distracciones o por hacer mal cuentas mentales. 
+- Estuve revisando en mercado libre algunos libros sobre cálculo que pueden estar buenos para más adelante. En particular encontré uno a muy buen precio que me puede servir desde cálculo 1 a cálculo 3 (más o menos). Ahora pregunté a ver si todavía está disponible y si tiene soluciones. Probablemente invierta en comprarlo porque está bastante económico y tenía buenas reviews.
+----
+✍️ **Día 18 --> Lunes 29 de Julio del 2024**
+
+(Total: 2 hs - 1.5 hs de CS50 Python y 0.5 hs de matemática)
+- Sigo avanzando con los ejercicios de OpenStax intermediate algebra, Chapter 2, Section 2.1. No me quedan muchos la verdad, si tengo un tiempo más probablemente los termine entre hoy y mañana. Tendría que buscarme ejercicios con potencias para practicar otros tipos de ecuaciones.
+- Vi más de la mitad de la clase de loops (semana 2) de CS50 python. Hasta ahora vengo con muy buen ritmo en estos temas porque ya los tengo muy allanados gracias a JavaScript.
+-----
+✍️ **Día 19 --> de Julio del 2024**
+
+()
+- 

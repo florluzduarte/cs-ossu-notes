@@ -113,7 +113,7 @@ Fecha de inicio: 08/07/2024
 - Cerrando la semana con los ejercicios del set 1 terminados. Ya entregué los 5 desafíos propuestos. Me doy cuenta que me está ayudando a dividir cada problema en partecitas aún más pequeñas, lo cual hace que escriba mejor código y más rápido, porque tengo claro qué es lo que estoy haciendo en cada paso.
 ----
 
-⏳️ **Semana 2:**  13 horas 45 minutos ⏳️
+⏳️ **Semana 3:**  13 horas 45 minutos ⏳️
 
 ------
 ✍️ **Día 17 --> Domingo 28 de Julio del 2024**
@@ -128,7 +128,10 @@ Fecha de inicio: 08/07/2024
 - Sigo avanzando con los ejercicios de OpenStax intermediate algebra, Chapter 2, Section 2.1. No me quedan muchos la verdad, si tengo un tiempo más probablemente los termine entre hoy y mañana. Tendría que buscarme ejercicios con potencias para practicar otros tipos de ecuaciones.
 - Vi más de la mitad de la clase de loops (semana 2) de CS50 python. Hasta ahora vengo con muy buen ritmo en estos temas porque ya los tengo muy allanados gracias a JavaScript.
 -----
-✍️ **Día 19 --> de Julio del 2024**
+✍️ **Día 19 --> Martes 30 de Julio del 2024**
 
-()
-- 
+(Total: 2 hs - 1.5 hs de matemática y 0.5 hs de CS50 python)
+- Por fin terminé todos los ejercicios de ecuaciones de grado 1. Fueron más de 70 ejercicios pero me sirvió un montón para practicar. Todo bien, la mayoría de los ejercicios los resolví de forma correcta, excepto unos pocos que fueron más bien distracciones que problemas de resolución. En general re bien. Ahora estoy pasando a ecuaciones de grado 2 o cuadráticas, y en cuanto pueda quisiera complementar todo esto con las gráficas de ecuaciones que es el próximo tema en las lecciones de Prof. Leonard.  
+- Terminé de ver la teoría de loops de la semana 2 del curso CS50p. Me quedaron pendientes para mañana los shorts y ya podría empezar con los ejercicios.  
+-----
+✍️ **Día 20 --> de Julio del 2024**

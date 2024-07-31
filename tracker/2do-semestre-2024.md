@@ -134,4 +134,13 @@ Fecha de inicio: 08/07/2024
 - Por fin terminé todos los ejercicios de ecuaciones de grado 1. Fueron más de 70 ejercicios pero me sirvió un montón para practicar. Todo bien, la mayoría de los ejercicios los resolví de forma correcta, excepto unos pocos que fueron más bien distracciones que problemas de resolución. En general re bien. Ahora estoy pasando a ecuaciones de grado 2 o cuadráticas, y en cuanto pueda quisiera complementar todo esto con las gráficas de ecuaciones que es el próximo tema en las lecciones de Prof. Leonard.  
 - Terminé de ver la teoría de loops de la semana 2 del curso CS50p. Me quedaron pendientes para mañana los shorts y ya podría empezar con los ejercicios.  
 -----
-✍️ **Día 20 --> de Julio del 2024**
+✍️ **Día 20 --> Miércoles 31 de Julio del 2024**
+
+(Total 2 hs: 1.5 hs de CS50 Python - 0.5 hs de matemática)
+- Decidí mirar los shorts de la semana de loops de CS50p y menos mal que lo hice porque cubría un montón de temas interesantes, entre ellos, métodos de `dict` y `list`. Ahora sí ya me quedan los últimos días de la semana para hacer el set 2 de desafíos.  
+- En cuanto a matemática, tengo un montón de ejercicios para hacer de ecuaciones cuadráticas, así que me estoy divirtiendo con eso. Aparte (y no tan relacionado pero igual me gustaría documentarlo) compré un libro para los futuros cursos de cálculo. Tenía muy buenas referencias en internet y lo encontré por un precio regalado así que decidí comprarlo para más adelante ya que me va a ahorrar tiempo tener una copia en físico del material de estudio.  
+-----
+✍️ **Día 21 --> de Agosto del 2024**
+
+()
+- 

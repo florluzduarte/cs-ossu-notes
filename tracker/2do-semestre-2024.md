@@ -140,7 +140,27 @@ Fecha de inicio: 08/07/2024
 - Decidí mirar los shorts de la semana de loops de CS50p y menos mal que lo hice porque cubría un montón de temas interesantes, entre ellos, métodos de `dict` y `list`. Ahora sí ya me quedan los últimos días de la semana para hacer el set 2 de desafíos.  
 - En cuanto a matemática, tengo un montón de ejercicios para hacer de ecuaciones cuadráticas, así que me estoy divirtiendo con eso. Aparte (y no tan relacionado pero igual me gustaría documentarlo) compré un libro para los futuros cursos de cálculo. Tenía muy buenas referencias en internet y lo encontré por un precio regalado así que decidí comprarlo para más adelante ya que me va a ahorrar tiempo tener una copia en físico del material de estudio.  
 -----
-✍️ **Día 21 --> de Agosto del 2024**
+✍️ **Día 21 --> Jueves 01 de Agosto del 2024**
 
-()
-- 
+(1.5 hs de matemática)
+- Dediqué un rato de la tarde a resolver ejercicios de ecuaciones cuadráticas. Qué placer estar con un cafecito resolviendo los ejercicios tranquila, una maravilla. Ya me quedan unos pocos ejercicios de cuadráticas antes de volver a retomar los videos de Prof. Leonard para seguir avanzando.   
+----
+
+⏳️ **Semana 4:**  8 horas ⏳️
+
+----
+
+### 🎯 Resumen: Julio del 2024 🎯 
+
+- Horas de estudio: 40 horas y 45 minutos
+- Temas:
+	- Pre-requisitos de matemática: Aritmética + Álgebra intermedia  
+	- CS50 Python --> Semana 0 a la semana 3  
+- Notas: 
+	- Super bien el tiempo de estudio para este mes, ya que mi meta son 10 horas semanales y en conjunto lo pude cumplir bien. Creo que es un ritmo sostenible, igualmente, seguiré testeando en los próximos meses.  
+
+----
+## Agosto 2024
+
+-----
+✍️ **Día 22 --> de Agosto del 2024**  

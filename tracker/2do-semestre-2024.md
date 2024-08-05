@@ -163,4 +163,13 @@ Fecha de inicio: 08/07/2024
 ## Agosto 2024
 
 -----
-✍️ **Día 22 --> de Agosto del 2024**  
+✍️ **Día 22 --> Lunes 05 de Agosto del 2024**  
+
+(2 hs de matemática)
+- Terminando el set de ejercicios de ecuaciones cuadráticas. Cada vez con menos errores de operaciones básicas que antes me estaban complicando en la resolución de algunos ejercicios. Esto seguramente es porque a más práctica más fácil es resolver esas operaciones.  
+- Empezando con la representación gráfica de ecuaciones.
+----
+✍️ **Día 23 --> de Agosto del 2024**  
+
+()
+- 

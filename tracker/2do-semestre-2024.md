@@ -165,11 +165,17 @@ Fecha de inicio: 08/07/2024
 -----
 ✍️ **Día 22 --> Lunes 05 de Agosto del 2024**  
 
-(2 hs de matemática)
+(2,5 hs de matemática)
 - Terminando el set de ejercicios de ecuaciones cuadráticas. Cada vez con menos errores de operaciones básicas que antes me estaban complicando en la resolución de algunos ejercicios. Esto seguramente es porque a más práctica más fácil es resolver esas operaciones.  
 - Empezando con la representación gráfica de ecuaciones.
 ----
-✍️ **Día 23 --> de Agosto del 2024**  
+✍️ **Día 23 --> Miércoles 07 de Agosto del 2024**  
+
+(2.5 hs total: 2 hs de CS50 Python + 0.5 hs de matemática)
+- Entregué 2 ejercicios del segundo set de CS50p. Se va complicando la cosa, ya no son tan simples los ejercicios y empiezan a tener múltiples escenarios posibles. 
+- Miré un par de videos de matemática para revisar qué temas puntuales me faltan antes de poder pasar a pre-cálculo.  
+-----
+✍️ **Día 24 --> de Agosto del 2024**  
 
 ()
 - 

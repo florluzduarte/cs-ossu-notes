@@ -175,7 +175,32 @@ Fecha de inicio: 08/07/2024
 - Entregué 2 ejercicios del segundo set de CS50p. Se va complicando la cosa, ya no son tan simples los ejercicios y empiezan a tener múltiples escenarios posibles. 
 - Miré un par de videos de matemática para revisar qué temas puntuales me faltan antes de poder pasar a pre-cálculo.  
 -----
-✍️ **Día 24 --> de Agosto del 2024**  
+✍️ **Día 24 --> Jueves 08 de Agosto del 2024**  
+
+(1 hs de matemáticas)
+- Empecé con las lecciones sobre graphing de Prof. Leonard. Por ahora estoy trabajando con funciones lineales.  
+---
+✍️ **Día 25 --> Viernes 09 de Agosto del 2024**   
+
+(1 hs de CS50 Python)  
+- Por fin pude terminar el ejercicio de loops llamado "twttr". Me costó bastante porque estaba intentando resolverlo de una forma más complicada de la necesaria. Lo estaba pensando en JS y tratando de resolver en Python y aunque son muy similares claramente no son lo mismo. Por eso estaba complicando mi lógica innecesariamente.  
+---
+✍️ **Día 26 --> Sábado 10 de Agosto del 2024**  
+
+(2.5 hs de CS50 Python)  
+- Más avances en los desafíos de loops. Este finde le dediqué unas horas para armar el ejercicio 3 y 4 del set; y también plantee la solución para el último ejercicio de esta serie. Ya me queda poco para poder pasar a la próxima unidad. 
+----
+
+⏳️ **Semana 5:**  9.5 horas ⏳️  
+
+----
+✍️ **Día 27 --> Lunes 12 de Agosto del 2024**  
+
+(Total: 1 hs - 0.5 hs de CS50 Python y 0.5 hs de matemáticas)  
+- Terminé los desafíos de loops de CS50. Me quedaba uno pendiente del fin de semana y por fin pude terminarlo.  
+- Por otro lado, estoy en un repaso de operaciones con polinomios siguiendo las clases de Prof. Leonard.  
+----
+✍️ **Día 28 --> de Agosto del 2024**  
 
 ()
 - 

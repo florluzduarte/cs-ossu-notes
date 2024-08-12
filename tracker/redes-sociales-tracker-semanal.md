@@ -25,11 +25,18 @@ Fecha de inicio: 12/07/2024 (Cada viernes por X y Threads)
 - Pre-requisitos de matemática --> Subí de nivel 🚀. Ahora estoy con funciones, polinomios y otros ejercicios típicos de Álgebra. Cambié Khan Academy por los libros gratuitos de OpenStax + lecciones en YouTube de estos temas. 
 - CS50 Python --> Segunda set de ejercicios completos. Lista para empezar a trabajar en los loops 💪
 -------
-05/08/2024
+(05/08/2024)
 
 💾 **OSSU - Computer Science - Semana 4** 💾
 
 Primer mes DONE ✅ 
 - Pre-requisitos de matemática --> Ecuaciones, ecuaciones y más ecuaciones. Me hace muy feliz hacer los ejercicios y sentir como voy recuperando conocimientos olvidados.
 - CS50 Python --> Lección teórica de loops terminada. Pendiente el set de desafíos.
+----
+(12/08/2024)  
+
+💾 **OSSU - Computer Science - Semana 5** 💾
+
+- Por fin pude terminar los ejercicios de Loops de CS50 Python 💪 La semana pasada fue medio complicada y me costó avanzar.
+- Pre-requisitos de matemáticas --> Avanzando con gráficas de funciones lineales, sigo sumando temas poco a poco. 
 ----

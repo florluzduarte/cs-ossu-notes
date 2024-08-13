@@ -200,7 +200,13 @@ Fecha de inicio: 08/07/2024
 - Terminé los desafíos de loops de CS50. Me quedaba uno pendiente del fin de semana y por fin pude terminarlo.  
 - Por otro lado, estoy en un repaso de operaciones con polinomios siguiendo las clases de Prof. Leonard.  
 ----
-✍️ **Día 28 --> de Agosto del 2024**  
+✍️ **Día 28 --> Martes 13 de Agosto del 2024**  
+
+(Total: 1.5 hs - 1 hs de CS50 Python y 0.5 hs de Matemática)
+- Vi la lección completa sobre excepciones del curso CS50p. Estuve aprendiendo sobre las estructuras `try / except / pass / else` en el contexto de manejo de errores. Estuvo muy buena la clase y bastante corta. Por lo que estuve revisando es una unidad más pequeña, con menos ejercicios incluso que las anteriores.  
+- Terminé con la lección sobre operaciones con polinomios, más específicamente, me quedó para ver desde ayer la división de polinomios. Ya puedo empezar a buscar ejercicios de esto para practicar junto con las gráficas de ecuaciones lineales.  
+---
+✍️ **Día 29 --> de Agosto del 2024**  
 
 ()
 - 

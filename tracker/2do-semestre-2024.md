@@ -206,7 +206,14 @@ Fecha de inicio: 08/07/2024
 - Vi la lección completa sobre excepciones del curso CS50p. Estuve aprendiendo sobre las estructuras `try / except / pass / else` en el contexto de manejo de errores. Estuvo muy buena la clase y bastante corta. Por lo que estuve revisando es una unidad más pequeña, con menos ejercicios incluso que las anteriores.  
 - Terminé con la lección sobre operaciones con polinomios, más específicamente, me quedó para ver desde ayer la división de polinomios. Ya puedo empezar a buscar ejercicios de esto para practicar junto con las gráficas de ecuaciones lineales.  
 ---
-✍️ **Día 29 --> de Agosto del 2024**  
+✍️ **Día 29 --> Jueves 15 de Agosto del 2024**  
 
-()
-- 
+(1 hs de CS50 Python)
+- Esta semana se me está complicando muchísimo estudiar. Estuve toda la semana con trámites y turnos médicos a los que acudir y eso bloqueó gran parte de mi mañana toda la semana; por lo tanto tuve que compactar mi trabajo general con el estudio en unas 3 horas diarias. Un bajón pero espero poder recuperar la semana que viene para no perder el buen ritmo del primer mes.  
+- Terminé de ver todos los shorts de exceptions en CS50 Python. Ya estoy lista para empezar con los ejercicios. Probablemente haga algunos mañana y otros durante el finde para tratar de completar este bloque antes del lunes.  
+---  
+✍️ **Día 30 --> Viernes 16 de Agosto del 2024**  
+
+(1:15 hs)
+- Terminé la clase C.4 del curso de Intermediate algebra. Además seleccioné los ejercicios de práctica y los pasé a mi cuaderno para tenerlos a mano y aprovechar los tiempos libres para resolverlos.  
+----

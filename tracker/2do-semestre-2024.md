@@ -217,3 +217,27 @@ Fecha de inicio: 08/07/2024
 (1:15 hs)
 - Terminé la clase C.4 del curso de Intermediate algebra. Además seleccioné los ejercicios de práctica y los pasé a mi cuaderno para tenerlos a mano y aprovechar los tiempos libres para resolverlos.  
 ----
+
+⏳️ **Semana 6:**  4.5 horas ⏳️  
+
+----
+✍️ **Día 31 --> Sábado 24 de Agosto del 2024**
+
+(2,5 hs de matemática) 
+- Por fin tuve un tiempo para ponerme con los ejercicios, pero esto es por una buena razón, ya que el lunes comienzo un nuevo puesto como Front-end Developer 🙌. Puede completar todos los ejercicios de ecuaciones lineales + gráficas. Solo me queda pendiente revisarlos y evaluar si hubo errores a mejorar.  
+---
+✍️ **Día 32 --> Domingo 25 de Agosto del 2024** 
+
+(3hs de CS50 Python)
+- Logré completar 2 ejercicios del PSET de exceptions. Me quedan 2 más y puedo decir que llegué a la mitad del curso 💪  
+- Muy contenta con estos avances semanales. Aunque hayan sido pocos, las últimas dos semanas fueron muy atípicas y con el nuevo trabajo voy a tener un período de adaptación medio intenso, así que voy a tener que volver a acomodarme para poder encontrar el mejor momento en la semana para estudiar. Nada que con un poco de organización no se pueda sobrellevar, y más si mis inconvenientes son por haber entrado en un nuevo trabajo. Qué más puedo pedir que estar en un nuevo rol y que me genere este tipo de mini inconvenientes? Me toca adaptarme y aprender una vez más.  
+- También estuve muy enfocada las últimas semanas en terminar la versión 2.0 de la web de unicornio. Si bien no está relacionado directamente con OSSU, espero usar mi blog personal como otro espacio donde compartir mis avances. Por eso estaba tratando de cerrar el proyecto lo antes posible para poder ponerlo en producción. Aún me quedan un par de detalles, pero en eso ando,  espero terminar la próxima semana y que esté disponible como una versión estable por un tiempo.  
+---
+
+⏳️ **Semana 7:**  5.5 horas ⏳️
+
+---
+✍️ **Día 33 --> de Agosto del 2024** 
+
+()
+- 

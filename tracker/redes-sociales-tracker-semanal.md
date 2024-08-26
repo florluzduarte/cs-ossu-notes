@@ -40,3 +40,11 @@ Primer mes DONE ✅
 - Por fin pude terminar los ejercicios de Loops de CS50 Python 💪 La semana pasada fue medio complicada y me costó avanzar.
 - Pre-requisitos de matemáticas --> Avanzando con gráficas de funciones lineales, sigo sumando temas poco a poco. 
 ----
+(26/08/2024)
+
+💾 **OSSU - Computer Science - Semana 6 y 7** 💾
+
+Fueron un par de semanas medio inactivas. De todas maneras logré llegar a la mitad del curso de CS50 Python 💪 Avanzando con los ejercicios de Exceptions y sigo con el repaso de matemática cuando encuentro huecos en la semana.  
+
+---
+

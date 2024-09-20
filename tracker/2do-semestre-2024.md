@@ -256,7 +256,12 @@ Fecha de inicio: 08/07/2024
 - Después de casi un mes de inactividad pude retomar el estudio. Hoy logré completar el ejercicio `grocery.py` del set de exceptions 💪 Me siento feliz de haber vuelto, espero poder armar una buena rutina mientras termino acostumbrarme a mi nuevo trabajo.
 
 ---
-✍️ **Día 34 --> Septiembre del 2024** 
+✍️ **Día 34 --> 20 de Septiembre del 2024** 
+
+(2 hs de CS50 Python)
+- Estuve luchando con el ejercicio `outdated.py` de exceptions y finalmente no lo pude terminar. Me faltaba pasar un solo test que falló, pero para solucionar ese problema rompí el resto del código jajaj 😵‍💫 Mañana lo volveré a revisar con ojos frescos para encontrar el error.  
+----
+✍️ **Día 35 --> Septiembre del 2024** 
 
 ()
-
+- 

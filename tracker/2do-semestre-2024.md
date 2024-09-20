@@ -237,7 +237,26 @@ Fecha de inicio: 08/07/2024
 ⏳️ **Semana 7:**  5.5 horas ⏳️
 
 ---
-✍️ **Día 33 --> de Agosto del 2024** 
+
+### 🎯 Resumen: Agosto del 2024 🎯 
+
+- Horas de estudio: 19 horas y 30 minutos
+- Temas:
+	- Pre-requisitos de matemática: Álgebra intermedia  
+	- CS50 Python --> Semana 4  
+- Notas: 
+	- El cambio de rutina gracias al nuevo trabajo me mató. Se nota en mis números, pero no me quejo, ahora tengo la oportunidad de aprender 8 horas al día en el trabajo + la OSSU. Se vienen cosas interesantes seguro.
+
+----
+## Septiembre 2024
+
+✍️ **Día 33 --> 19 de Septiembre del 2024** 
+
+(1.5 hs de CS50 Python)
+- Después de casi un mes de inactividad pude retomar el estudio. Hoy logré completar el ejercicio `grocery.py` del set de exceptions 💪 Me siento feliz de haber vuelto, espero poder armar una buena rutina mientras termino acostumbrarme a mi nuevo trabajo.
+
+---
+✍️ **Día 34 --> Septiembre del 2024** 
 
 ()
-- 
+

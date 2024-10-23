@@ -261,7 +261,24 @@ Fecha de inicio: 08/07/2024
 (2 hs de CS50 Python)
 - Estuve luchando con el ejercicio `outdated.py` de exceptions y finalmente no lo pude terminar. Me faltaba pasar un solo test que falló, pero para solucionar ese problema rompí el resto del código jajaj 😵‍💫 Mañana lo volveré a revisar con ojos frescos para encontrar el error.  
 ----
-✍️ **Día 35 --> Septiembre del 2024** 
+## Octubre
+
+---
+
+✍️ **Día 35 --> 14 de Octubre del 2024** 
+
+(1hs de CS50 python)
+
+Desde que conseguí mi nuevo trabajo me está costando muchísimo tener una rutina de estudio. 
+
+Hay muchas razones para esto que estoy intentando mejorar de a poco: 1) Termino el día agotada porque es un puesto exigente. 2) Mis horarios están siendo demasiado flexibles entonces me cuesta organizarme. No logro empezar la jornada en un horario fijo y como consecuencia tampoco tengo un horario fijo de salida. 3) Me está costando poner la voluntad necesaria para seguir avanzando. Como siempre, una vez que el empuje inicial se acaba, ahí se pone compleja la cosa. 
+
+De todas maneras acá estoy para seguir intentándolo, aprendiendo en el camino. Mi meta para esta semana es terminar el capítulo de librerías de CS50p y retomar las clases de matemática.   
+
+Hoy empecé con el pie derecho y ya estoy por la mitad de la lección. Solo me queda seguir esforzándome 💪
+
+----
+
+✍️ **Día 36 --> 16 de Octubre del 2024** 
 
 ()
-- 

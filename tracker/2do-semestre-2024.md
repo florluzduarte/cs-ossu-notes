@@ -263,9 +263,7 @@ Fecha de inicio: 08/07/2024
 ----
 ## Octubre
 
----
-
-✍️ **Día 35 --> 14 de Octubre del 2024** 
+### ✍️ **Día 35 --> 14 de Octubre del 2024** 
 
 (1hs de CS50 python)
 
@@ -279,6 +277,16 @@ Hoy empecé con el pie derecho y ya estoy por la mitad de la lección. Solo me q
 
 ----
 
-✍️ **Día 36 --> 16 de Octubre del 2024** 
+### ✍️ **Día 36 --> 23 de Octubre del 2024** 
 
-()
+(1.5 hs de CS50 Python)
+
+Por fin terminé de ver el capítulo de librerías. Se está volviendo interesante el curso, justo al momento de llegar exacto a la mitad de la cursada. Las librerías externas abren un montón de posibilidades y espero que los próximos capítulos sean bastante desafiantes.  
+
+Hablando de desafíos, tengo por delante 6 ejercicios para resolver, la mayor cantidad hasta el momento 🤯. En los próximos días voy a estar resolviéndolos.   
+
+---
+
+### ✍️ **Día 37 --> 25 de Octubre del 2024**  
+
+( )

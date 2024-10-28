@@ -289,4 +289,13 @@ Hablando de desafíos, tengo por delante 6 ejercicios para resolver, la mayor ca
 
 ### ✍️ **Día 37 --> 25 de Octubre del 2024**  
 
-( )
+(2.5 hs de CS50 Python)  
+
+Logré completar los primeros 2 ejercicios del capítulo de librerías. El primero sobre los emojis me pareció super simple y ya el segundo lo vi un poco más complejo. Me quedé estancada un rato porque no lograba el mismo resultado visual para el print de las tipografías custom, y era que estaba usando el método `split` y no `strip` en el input del usuario 😵‍💫 pero igual logré encontrar el error y entregar estos primeros desafíos.  
+
+----
+
+### ✍️ **Día 38 --> Lunes 28 de Octubre del 2024**  
+
+()
+

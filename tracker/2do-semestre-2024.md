@@ -261,7 +261,7 @@ Fecha de inicio: 08/07/2024
 (2 hs de CS50 Python)
 - Estuve luchando con el ejercicio `outdated.py` de exceptions y finalmente no lo pude terminar. Me faltaba pasar un solo test que falló, pero para solucionar ese problema rompí el resto del código jajaj 😵‍💫 Mañana lo volveré a revisar con ojos frescos para encontrar el error.  
 ----
-## Octubre
+## Octubre 2024
 
 ### ✍️ **Día 35 --> 14 de Octubre del 2024** 
 
@@ -295,7 +295,47 @@ Logré completar los primeros 2 ejercicios del capítulo de librerías. El prime
 
 ----
 
-### ✍️ **Día 38 --> Lunes 28 de Octubre del 2024**  
+### ✍️ **Día 38 --> Martes 29 de Octubre del 2024**  
 
-()
+(1.5 hs de CS50 Python)
 
+Estuve un rato largo trabajando en ejercicio de librerías llamado `game.py` y justo cuando estaba segura que tenía todo correcto para la entrega salta un error en los test automáticos.   
+
+Traté de solucionarlo de varias formas y pero aún no lo he logrado. Lo raro es que no entiendo bien por qué está fallando. Será cuestión de volver a probar mañana con la mente fresca.  
+
+---
+### ✍️ **Día 39 --> Miércoles 30 de Octubre del 2024**  
+
+(2 hs de CS50 Python)
+
+Luego de probar otras 80 opciones distintas para el desafío de `game.py` logré encontrar el error. Debía aplicar `sys.exit()` para finalizar el programa.  
+
+La explicación era tan sutil y el mensaje de error tan confuso que pensé que estaba cayendo en un loop infinito, cuando en realidad, solo me hacía falta una sentencia de corte con la librería `sys`.  
+
+Muy raro, es la primera vez que me pasa que me quedo tan estancada por una pavada jajaj pero bueno son cosas que pasan. 
+
+Ya quedó resuelto y estoy un paso más cerca de terminar esta semana del curso que se hizo de goma. Creo que ya llevo como 3 semanas en esta week ☠️ en fin más progreso pero lento por ahora.  
+
+---
+### ✍️ **Día 40 --> Jueves 31 de Octubre del 2024**  
+
+(2 hs de CS50 Python)  
+
+Otro desafío completo del curso! 💪 Puede hacer en un par de horas la resolución de `professor.py`. La verdad no me tenía tanta fe, en especial porque me quedé bastante estancada en el desafío anterior, pero pude hacerlo sin problemas.  
+
+Diría que fue uno de los ejercicios más complejos hasta el momento, porque tiene varios casos a tener en cuenta, y hay que manejar varios contadores a la vez (como el número de respuestas correctas o la cantidad de intentos por pregunta) además de manejar los posibles errores.  
+
+Así como resultó complicado también fue divertido y me motiva ver como voy avanzando con este lenguaje.  
+
+---
+### 🎯 **Resumen: Octubre del 2024** 
+
+- Horas de estudio: 10.5 hs  
+- Temas: CS50 Python  
+- Notas: Si bien fueron pocas horas es un mes importante porque estoy volviendo a lograr constancia luego de un mes y medio de no tocar nada. Así que me quedo feliz con esta vuelta al ruedo.   
+
+---
+
+## Noviembre 2024
+
+### ✍️ **Día 41 --> Viernes 01 de Noviembre del 2024**  

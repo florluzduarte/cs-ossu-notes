@@ -339,3 +339,38 @@ Así como resultó complicado también fue divertido y me motiva ver como voy av
 ## Noviembre 2024
 
 ### ✍️ **Día 41 --> Viernes 01 de Noviembre del 2024**  
+
+(2.5 hs de CS50 Python)
+
+Pude completar el ejercicio `bitcoin.py`, el último de la PSET de librerías 💪  
+
+Además vi toda la clase teórica de la semana 5 de Unit Test. Fue una clase corta y estuve revisando los ejercicios y tampoco son muchos (solo 4). Así que espero poder avanzar bastante esta semana.  
+
+Algo que todavía tengo pendiente es volver al ruedo con las clases de matemáticas. Mientras antes pueda sumar eso a mi rutina mejor.  
+
+----
+### ✍️ **Día 42 --> Lunes 04 de Noviembre del 2024**  
+
+(1.5 hs de CS50 Python)  
+
+Pude ver el short sobre Pytest de la clase sobre Unit Tests y además resolver el primer ejercicio.
+
+Seguí avanzando con el segundo ejercicio que es re-hacer el ejercicio `bank.py` y sumarle los tests; pero me quedé un poco estancada porque hay un caso en el que no me están funcionando los tests. Mañana seguiré trabajando con eso hasta completarlo.  
+
+----
+
+### ✍️ **Día 43 --> Martes 05 de Noviembre del 2024**  
+
+(2 hs de CS50 Python)
+
+Pude terminar el ejercicio `test_bank.py` y también los otros dos restantes.
+
+Probablemente la unidad más simple del curso hasta el momento. Me ayudó mucho que la mayoría de los ejercicios ya los tenía estructurados de la forma correcta.  
+
+Sólo al ejercicio de `fuel.py` lo tuve que refactorizar porque estaba diferente a lo esperado para poder testear correctamente.   
+
+Me gusta mucho lo simple que es testear con Pytest, mucho menos verboso que herramientas como Vitest o Jest para JavaScript.   
+
+---
+
+### ✍️ **Día 44 --> Miércoles 06 de Noviembre del 2024**

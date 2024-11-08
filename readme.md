@@ -50,7 +50,7 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 - Fecha de inicio: 05/07/2024
 - Fecha de finalización: 
 - Apuntes: [[cs50p-intro-cs-python]]
-- Repositorio: 
+- Repositorio: [Repositorio privado](https://github.com/code50/77161808)
 - Ejemplos de lecciones: [Repositorio privado](https://github.com/florluzduarte/cs50-python-theory)
 
 [Introduction to Computer Science and Programming using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)

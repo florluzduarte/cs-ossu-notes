@@ -373,4 +373,20 @@ Me gusta mucho lo simple que es testear con Pytest, mucho menos verboso que herr
 
 ---
 
-### ✍️ **Día 44 --> Miércoles 06 de Noviembre del 2024**
+### ✍️ **Día 44 --> Jueves 07 de Noviembre del 2024**  
+
+(2 hs de CS50 Python)  
+
+Arrancando la clase 6 del curso con todo. Estuve viendo la teoría que, en este caso, es bastante extensa sobre File I/O.  
+
+---
+
+### ✍️ **Día 45 --> Viernes 08 de Noviembre del 2024**  
+
+(1,5 hs de CS50 Python)  
+
+Pude terminar la clase teórica principal de File I/O y también los dos shorts que hay en este módulo sobre procesamiento de imágenes con Pillow y I/O de archivos tipo CSV.  
+
+Me da la sensación que los ejercicios de este módulo no van a ser tan simples como los del anterior. De hecho todo el tema de escribir y leer archivos del sistema es bastante raro para mí, ya que no lo he realizado antes.  
+
+Creo que me esperan un par de jornadas divertidas haciendo el PSET de este módulo.   

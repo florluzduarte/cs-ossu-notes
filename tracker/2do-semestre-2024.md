@@ -390,3 +390,19 @@ Pude terminar la clase teórica principal de File I/O y también los dos shorts 
 Me da la sensación que los ejercicios de este módulo no van a ser tan simples como los del anterior. De hecho todo el tema de escribir y leer archivos del sistema es bastante raro para mí, ya que no lo he realizado antes.  
 
 Creo que me esperan un par de jornadas divertidas haciendo el PSET de este módulo.   
+
+----
+### ✍️ **Día 46 --> Viernes 15 de Noviembre del 2024**  
+
+Esta semana no tuve avances en el curso. Desafortunadamente me encontré con un problema ajeno. Llevo desde el viernes pasado sin poder acceder al entorno de código que se usa para el CS50 🤕.
+
+Aparentemente están trabajando en solucionar el problema, pero por ahora no puedo entregar nada ni usar el entorno de tests que viene con el curso.
+
+Igualmente no me voy a desmotivar por eso, sencillamente seguiré haciendo los PSETs en local hasta que pueda volver a acceder a cs50.dev 
+
+Esta semana no fue tan negativa de todas formas. Comencé un nuevo side project que tiene muy buena pinta. Es un proyecto que ya llevaba un tiempo formándose y que me va a motivar a seguir avanzando y aprendiendo cosas nuevas.  
+
+--- 
+## ✍️ **Día 47 --> Lunes 18 de Noviembre del 2024**  
+
+( )

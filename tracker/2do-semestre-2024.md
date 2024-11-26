@@ -250,13 +250,13 @@ Fecha de inicio: 08/07/2024
 ----
 ## Septiembre 2024
 
-✍️ **Día 33 --> 19 de Septiembre del 2024** 
+### ✍️ **Día 33 --> 19 de Septiembre del 2024** 
 
 (1.5 hs de CS50 Python)
 - Después de casi un mes de inactividad pude retomar el estudio. Hoy logré completar el ejercicio `grocery.py` del set de exceptions 💪 Me siento feliz de haber vuelto, espero poder armar una buena rutina mientras termino acostumbrarme a mi nuevo trabajo.
 
 ---
-✍️ **Día 34 --> 20 de Septiembre del 2024** 
+### ✍️ **Día 34 --> 20 de Septiembre del 2024** 
 
 (2 hs de CS50 Python)
 - Estuve luchando con el ejercicio `outdated.py` de exceptions y finalmente no lo pude terminar. Me faltaba pasar un solo test que falló, pero para solucionar ese problema rompí el resto del código jajaj 😵‍💫 Mañana lo volveré a revisar con ojos frescos para encontrar el error.  
@@ -403,6 +403,57 @@ Igualmente no me voy a desmotivar por eso, sencillamente seguiré haciendo los P
 Esta semana no fue tan negativa de todas formas. Comencé un nuevo side project que tiene muy buena pinta. Es un proyecto que ya llevaba un tiempo formándose y que me va a motivar a seguir avanzando y aprendiendo cosas nuevas.  
 
 --- 
-## ✍️ **Día 47 --> Lunes 18 de Noviembre del 2024**  
+### ✍️ **Día 47 --> Martes 19 de Noviembre del 2024**  
+
+(1 hs de CS50 Python)  
+
+Pude resolver el primero de los ejercicios del PSET de File I/O de CS50 Python. 
+
+Finalmente decidí seguir avanzando con el curso en local, ya que por un bug me quedé fuera del entorno de VSCode en la nube que ofrecen desde el curso.  
+
+Espero que en algún momento se solucione, pero no tengo tanta esperanza de que pase. Lo que más me desmotiva es que no puedo entregar los pocos ejercicios que me quedaban, y se siente como haber dejado el curso a la mitad y tampoco tengo acceso a los test automáticos; pero bueno toca seguir adelante de todas formas.  
+
+----
+### ✍️ **Día 48 --> Miércoles 20 de Noviembre del 2024** 
+
+(2 hs de CS50 Python)  
+
+Empecé a resolver el segundo ejercicio del PSET de File I/O y enseguida me encontré con un problema. Ahora que esto trabajando localmente necesito aprender a configurar mi entorno de trabajo para Python.  
+
+Estuve investigando sobre virtual environments ya que son necesarios para poder encapsular las instalaciones y dependencias de cada proyecto, y evitar problemas a futuro.  
+
+Obvio que esto no lo sabía porque estuve trabajando hasta ahora en un entorno controlado por alguien más. 
+
+En fin, en el proceso de aprender cosas nuevas, aunque no sean las que esperaba.  
+
+-----
+### ✍️ **Día 49 --> Viernes 22 de Noviembre del 2024**  
+
+(3hs de CS50 Python)  
+
+Por fin pude configurar y entender un poco más sobre los entornos virtuales de Python. Si bien me tomó un rato poder configurar todo, ahora puedo manejar mucho mejor los proyectos de Python de manera local y aprendí cosas interesantes en el camino.  
+
+También resolví los ejercicios 2 y 3 del PSET de File I/O. Estos son `pizza.py` y `scourgify.py`. Ambos fueron simples de resolver y me gusta como fui ganando fluidez con Python en el último tiempo.  
+
+---
+### ✍️ **Día 50 --> Lunes 25 de Noviembre del 2024**  
+
+(1 hs de CS50 Python)  
+
+Solo me queda un ejercicio del PSET de File I/O, pero creo que este challenge es un poco más desafiante que los otros. 
+
+Me tomé un rato para empezar a plantear el desafío pero no llegué a completarlo. Mañana lo retomo para ya cerrar esta unidad.  
+
+---
+### ✍️ **Día 51 --> Martes 26 de Noviembre del 2024**  
+
+(1,5 hs de CS50 Python) 
+
+Pude terminar el último ejercicio de File I/O 🍾 Me gustó trabajar con la librería Pillow. De todos los ejercicios del PSET este `shirt.py` fue el más complejo en mi opinión.  
+
+Aparte de los avances del curso, estoy pensando en hacer los challenges de Advent of Code en Python. Nunca participé de este evento, pero parece algo divertido para seguir practicando. Incluso me puede servir para, en paralelo, retomar las clases de matemáticas que las tengo totalmente olvidadas.  
+
+----
+### ✍️ **Día 52 --> Miércoles 27 de Noviembre del 2024**  
 
 ( )

@@ -1,6 +1,10 @@
 # Tracker diario: Segundo semestre 2024
 
-Fecha de inicio: 08/07/2024
+Fecha de inicio: 08/07/2024  
+Fecha de finalización: 
+Total días de estudio:  
+Total horas de estudio:  
+Notas:  
 
 ----
 ## Julio 2024
@@ -454,6 +458,42 @@ Pude terminar el último ejercicio de File I/O 🍾 Me gustó trabajar con la li
 Aparte de los avances del curso, estoy pensando en hacer los challenges de Advent of Code en Python. Nunca participé de este evento, pero parece algo divertido para seguir practicando. Incluso me puede servir para, en paralelo, retomar las clases de matemáticas que las tengo totalmente olvidadas.  
 
 ----
-### ✍️ **Día 52 --> Miércoles 27 de Noviembre del 2024**  
+### ✍️ **Día 52 --> Viernes 29 de Noviembre del 2024**  
+
+(1, 5 hs de CS50 Python)  
+
+Estoy avanzando con la teórica de Regular Expressions y me está gustando muchísimo. Es un tema re denso y súper críptico, pero por fin puedo decir que se interpretar la sintaxis básica de un Regex.  
+
+Ya estoy llegando al final del curso, me quedan 3 módulos para terminar y cada vez me siento más confiada con mis skills de Python. Ha resultado ser un excelente curso que te deja una base espectacular del lenguaje para empezar.  
+
+----
+
+### 🎯 **Resumen: Noviembre del 2024** 
+
+- Horas de estudio: 19.5 hs  
+- Temas: CS50 Python  
+- Notas: I'm so back! Estoy contenta de estar enganchada con la cursada y avanzando bien. Tengo un ritmo un poco más relajado que al inicio todavía, pero me está funcionando bien para mantener la constancia. Quedo contenta con los resultados de este mes.   
+
+----
+
+## Diciembre 2024  
+
+### ✍️ **Día 53 --> Domingo 01 de Diciembre del 2024**  
+
+(2 hs de Advent of Code + 0.5 hs de CS50 Python)  
+
+Como mencioné la semana pasada, voy a aprovechar el Advent of Code (AoC) de este año para practicar aún más todo lo que prendí de Python con CS50.  
+
+Logré completar los dos desafíos del día y ganar mis primeras 2 estrellitas ✨del AoC de mi vida. Estuvo divertido, por ahora los ejercicios fueron simples, pero entiendo que se van complejizando a medida que avanzan los días.   
+
+Veremos hasta dónde logro llegar este año y cuántas estrellitas recolecto hasta que los desafíos se vuelvan imposibles de resolver con mis skills actuales.  
+
+Además avancé un poquito con la teórica de Regex de CS50p. Resulta que las últimas clases del curso son bastante largas, promediando las 2 horas, así que me llevará un par de días completarlas.  
+
+---
+### ✍️ **Día 54 --> Lunes 02 de Diciembre del 2024**  
 
 ( )
+
+
+

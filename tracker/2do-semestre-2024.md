@@ -493,7 +493,96 @@ Además avancé un poquito con la teórica de Regex de CS50p. Resulta que las ú
 ---
 ### ✍️ **Día 54 --> Lunes 02 de Diciembre del 2024**  
 
-( )
+(2 hs de Advent of code, 1 hs de CS50 Python)
 
+Completé la teórica de Regex, ahora solo me quedan mirar los shorts antes de empezar a trabajar con el PSET. 
+
+Me estoy proponiendo como meta completar el curso de CS50 Python antes de las fiestas, así puedo empezar el año ya en el siguiente curso del MIT, y retomar también matemática en ese momento, para volver a un ritmo más compartido entre código y matemática.  
+
+Me estoy divirtiendo mucho con el Advent of Code. Vengo trabajando bastante para conseguir mis estrellitas.  
+
+---
+### ✍️ **Día 55 --> Martes 03 de Diciembre del 2024**  
+
+(2hs de Advent of Code)   
+
+Se me empieza a complicar seguir el ritmo de los desafíos. Hoy me quedé estancada y tuve que recurrir al Sub-Reddit del evento para intentar desbloquearme.  
+
+Resulta que estaba haciendo un sort de un array se strings numéricos, pensando que me daría el mismo resultado que hacerlo convirtiendo los strings a int... Moraleja no es lo mismo y por eso estaba fallando 🫠  
+
+De todas maneras logré avanzar.  
+
+---
+### ✍️ **Día 56 --> Miércoles 04 de Diciembre del 2024**  
+
+(2hs de Advent of Code)  
+
+Resulta que me cuesta hacer los dos puzzles del día del advent of code. Vengo un poco atrasada, y me parece que a este punto ya me puedo despedir de conseguir las 50 estrellas jajaja.  
+
+Normal, es la primera vez que participo y tampoco tengo tanta experiencia, ni se me dan muy bien los ejercicios de lógica. 
+
+Creo que ahora mi foco debe estar puesto en avanzar lo más posible durante los 25 días que el challenge está activo; ver hasta qué día y hasta cuántas estrellas puedo recolectar y luego, ya terminado todo, ir completando aquellos que me falten.  
+
+Diría que en esta primera experiencia me gustaría encontrar mi punto más alto posible para que el año próximo ya tenga un valor para intentar superarme.  
+
+Me sabe un poco mal no poder seguir el ritmo (como en todo, las expectativas son traicioneras) pero no quiero desmotivarme por eso.  
+
+Hoy logré completar el primer puzzle del día 3, donde pude poner en práctica lo que estoy aprendiendo sobre Regex en CS50.   
+
+No fue tan fácil como esperaba, pero encontré esta herramienta (https://regexr.com/) que me está sirviendo bastante para interpretar los Regex que genero. Creo que puede ser muy útil para seguir estudiando.  
+
+---
+### ✍️ **Día 57 --> Jueves 05 de Diciembre del 2024**  
+
+(2.5 hs de Advent of Code)  
+
+Pude completar el puzzle 2 del día 3 💪 Me costó bastante pero ya me siento más confiada escribiendo mis propios Regex.  
+
+Toda esta práctica me ayuda a seguir fortaleciendo los conocimientos que ya adquirí gracias a CS50 Python.  
+
+Empecé a trabajar en el primer puzzle del día 4 y la verdad está bien difícil. Me está agilizando el cerebro y también me lo está rompiendo en partes iguales jajaja  
+
+De verdad que son cosas que en otro momento no hubiera podido hacer, y no por falta de conocimiento técnico, sino por falta de perseverancia ante la frustración.  
+
+Es en estos pequeños detalles donde noto lo mucho que he avanzado en estos últimos meses. Ahora no me rindo, sigo buscando opciones, sigo validando ideas y consulto si estoy estancada; pero no me rindo. 
+
+En otros momentos lo hubiera abandonado sólo porque el peso de la frustración era mayor que la gratificación de haber resulto un problema. Mis niveles de tolerancia están aumentando y eso es muy bueno.  
+
+----
+### ✍️ **Día 58 --> Viernes 06 de Diciembre del 2024**  
+
+(1hs de Advent of Code)  
+
+Sigo intentando encontrarle la vuelta al puzzle del día 4. Estoy trabada en cómo conseguir los valores diagonales de la matriz. 
+
+Estuve revisando algunos videos sobre el tema, pero aún no tuve tiempo de ponerme a probar con el código.  
+
+Creo que hay cierto conocimiento de base sobre estructuras que me falta y por eso se me dificultan tanto estos ejercicios. Quizás sólo sea la falta de práctica, pero me parece que hay algo un poco más profundo al respecto.  
+
+Lo bueno es que ya estoy detectando esa falta y puedo empezar a trabajar en ello.  
+
+Por ahora voy a volver el foco a CS50 por unos días mientras hago advent of code como ejercicios complementarios para no desviarme mucho del objetivo por el cual decidí sumarme al challenge que es para practicar.  
+
+Sigue siendo mi meta de este diciembre terminar CS50p para empezar el 2025 con otro ritmo y nuevos cursos.  
+
+---
+### ✍️ **Día 59 --> Domingo 08 de Diciembre del 2024**  
+
+(3hs de CS50 Python)  
+
+Bueno, creo que me he quedado estancada en el advent of code... triste pero solo pude hacer los primeros 3 días. Estoy un poco desilusionada de mi misma porque esperaba poder más. Un baño de humildad jamás me viene mal.  
+
+Considerando lo anterior, volví a los desafíos de CS50 Python que los tenía medio relegados. Pude completar 2 de Regex `numb3rs.py` y `watch.py`.  
+
+El primero de estos ejercicios me pareció mucho más complejo que el segundo. La verdad que no la tenía tan clara con los regex de rangos numéricos como esperaba. Tuve que darle un par de vueltas al asunto antes de poder completarlo.  
+
+De todas formas estuvo interesante y también me gustó que pidieran los test unitarios para validar la solución. Ya me había olvidado cómo crear los tests y tuve que volver a revisar mis archivos de hace unas semanas.  
+
+El segundo ejercicio me pareció mucho más simple y también quedó completo.
+
+----
+### ✍️ **Día 60 --> Lunes 09 de Diciembre del 2024**  
+
+( )
 
 

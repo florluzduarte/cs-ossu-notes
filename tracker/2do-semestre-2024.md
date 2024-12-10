@@ -578,11 +578,21 @@ El primero de estos ejercicios me pareció mucho más complejo que el segundo. L
 
 De todas formas estuvo interesante y también me gustó que pidieran los test unitarios para validar la solución. Ya me había olvidado cómo crear los tests y tuve que volver a revisar mis archivos de hace unas semanas.  
 
-El segundo ejercicio me pareció mucho más simple y también quedó completo.
+El segundo ejercicio me pareció mucho más simple y también quedó completo.  
 
 ----
 ### ✍️ **Día 60 --> Lunes 09 de Diciembre del 2024**  
 
-( )
+(1hs de Advent of Code + 2hs de CS50 Python)  
 
+Con un poco de ayuda fui capaz de completar el puzzle 1 del día 4. Es realmente difícil para mi en este momento resolver estos ejercicios. Como ya dije los últimos días creo que me faltan conocimientos de base sobre estructuras de datos y algoritmos para poder avanzar más rápido.   
+
+Va a estar bueno seguir intentando a lo largo del año avanzar con estos desafíos y los de años anteriores para practicar 💪 Calculo que a medida que avance en la OSSU también tendré más skills para aplicar en estos puzzles.  
+
+Dejé avanzado el ejercicio de CS50 Python `working.py`. Pude resolverlo bastante bien y rápido pero no me alcanzó el tiempo para armar los tests, así que mañana voy a ponerme a completar lo que me falta y seguir avanzando con el próximo ejercicio. Aún me quedan 2 más de la sección de Regex.  
+
+----
+### ✍️ **Día 61 --> Martes 10 de Diciembre del 2024**   
+
+( )
 

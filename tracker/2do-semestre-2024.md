@@ -594,5 +594,26 @@ Dejé avanzado el ejercicio de CS50 Python `working.py`. Pude resolverlo bastant
 ----
 ### ✍️ **Día 61 --> Martes 10 de Diciembre del 2024**   
 
-( )
+(1 hs de CS50 Python)  
 
+Tuve un ratito libre por la tarde y pude completar el desafío `working.py` con los tests unitarios que me faltaban.  
+
+Además, hice el ejercicio `um.py` en tiempo record 🚀 Solo me llevó un par de minutos. Creo que fue uno de los más rápidos de resolver hasta el momento. Toda la práctica de los últimos días parece estar dando resultados.  
+
+Solo me queda un desafío de este PSET y puedo avanzar a la última semana teórica del curso! Ya se acaba esto 🥳  
+
+---
+### ✍️ **Día 62 --> Miércoles 11 de Diciembre del 2024**   
+
+(1.5hs de CS50 Python)  
+
+Al final fue súper simple el ejercicio de regex llamado `response.py`. Solo necesitaba implementar una librería para validar un email 😎  
+
+Con esto logré completar todos los desafíos de regex y ya empecé a ver la teoría de OOP (Object Oriented Programming).   
+
+Se acerca el final del curso y solo me quedan 3 ejercicios + el desafío final 🤞Espero que me alcancen los días que quedan del año para poder cerrar este primer curso y completar así el primer semestre de OSSU.  
+
+----
+### ✍️ **Día 63 --> Jueves 12 de Diciembre del 2024**   
+
+( ) 

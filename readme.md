@@ -13,7 +13,11 @@ Para más información sobre el temario: https://cs.ossu.dev/
 
 Fecha de inicio: 05/07/2024
 
-IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos que forman parte de la currícula, los repositorios con los ejercicios de cada cursada los mantendré en privado. De todas formas iré actualizando el tracker del progreso y mis notas personales.
+> [!IMPORTANT]
+> Para no romper el código de conducta de los proveedores de cursos que forman parte de la currícula, los repositorios con los ejercicios de cada cursada los mantendré en privado siempre que me sea exigido. Los que pueda tener de forma pública obviamente los compartiré por aquí.  
+
+> [!NOTE]
+> Además de este tracker general, también llevo un registro diario de mis avances que se puede encontrar en la carpeta `tracker/daily-tracker` . Adicionalmente escribo un artículo por mes contando mis experiencias que se puede encontrar en mi [blog personal](https://unicornio.dev/es/blog/) 
 
 ----
 
@@ -37,28 +41,25 @@ IMPORTANTE: Para no romper el código de conducta de los proveedores de cursos q
 ----
 
 ### 1. Intro to CS:
-(For students to try out CS and see if it's right for them)  
-**Topics covered**:
-`simple programs`
-`simple data structures`
-`computation`
-`imperative programming`
-`basic data structures and algorithms`
+
+> [!TIP] 
+> (For students to try out CS and see if it's right for them)  
+> **Topics covered**: `simple programs`  `simple data structures`  `computation`  `imperative programming`  `basic data structures and algorithms`  
+
 
 💪 [CS50p: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 - Institución: Harvard
 - Fecha de inicio: 05/07/2024
 - Fecha de finalización: 
 - Apuntes: [[cs50p-intro-cs-python]]
-- Repositorio: [Repositorio privado](https://github.com/code50/77161808)
-- Ejemplos de lecciones: [Repositorio privado](https://github.com/florluzduarte/cs50-python-theory)
+- Repositorio: [Repositorio privado](https://github.com/florluzduarte/cs50-python)   
 
-[Introduction to Computer Science and Programming using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)
-- Institución: MIT  
-- Fecha inicio: 
-- Fecha finalización: 
-- Apuntes: 
-- Repositorio: 
+[Introduction to Computer Science and Programming using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)   
+- Institución: MIT   
+- Fecha inicio:   
+- Fecha finalización:  
+- Apuntes:   
+- Repositorio:   
  
 -----
 

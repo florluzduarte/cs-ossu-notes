@@ -631,6 +631,22 @@ Otra cosa, creo que voy a hacer un backup de todos los ejercicios que entregué 
 Quizás estoy un poco paranoica pero no me da confianza saber que se pueden remover sin que tenga mucho control. Probablemente este repo en el que estoy trabajando quede olvidado a futuro, pero al menos quiero hacer el esfuerzo de preservar mi proceso de aprendizaje lo mejor posible.  
 
 ----
-### ✍️ **Día 64 --> de Diciembre del 2024** 
+### ✍️ **Día 64 --> Domingo 15 de Diciembre del 2024** 
 
-( )  
+(2 hs de LazyVim)  
+
+No sé por qué me agarró la locura de empezar a probar Vim mientras estudio para ir acostumbrándome a usar más el teclado y menos el mouse.  
+
+A veces me pasa que algo nuevo se cruza por mi camino y sencillamente lo pruebo. Bueno LazyVim es una de esas cosas. 
+
+Hace unos días encontré dos guías muy interesantes: LazyVim for ambitious devs y Learn Vim. Ambas obvio sobre Vim, y me picó el bichito de la curiosidad. Aparte sé que dentro de OSSU está el curso del missing semester que trata también de enseñarte Vim, así que sencillamente estoy explorando y tratando de aprender.  
+
+Ya logré la configuración inicial de LazyVim usando WSL + Ubuntu. Quedó andando así que ya puedo avanzar al capítulo 2 de la guía de ambitious devs 💪  
+
+Adicionalmente ya estoy migrando los ejercicios de CS50 Python a mi repo privado para tener todo junto por las dudas. 
+
+---
+### ✍️ **Día 65 --> Lunes 16 de Diciembre del 2024**   
+
+( )
+

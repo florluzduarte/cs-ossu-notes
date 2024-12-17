@@ -1,4 +1,4 @@
-# Tracker diario: Segundo semestre 2024
+# 🗓️ Tracker diario: Segundo semestre 2024
 
 ----
 
@@ -648,5 +648,15 @@ Adicionalmente ya estoy migrando los ejercicios de CS50 Python a mi repo privado
 ---
 ### ✍️ **Día 65 --> Lunes 16 de Diciembre del 2024**   
 
-( )
+(1hs de CS50 Python)  
 
+Sigo avanzando con la teoría de OOP. Hoy más en puntual estuve aprendiendo sobre el decorator `@classmethod` y  repasando la diferencia entre métodos de instancia y métodos de clase.  
+
+Me está dando ansiedad por terminar este primer curso la verdad jajaja. Las últimas clases son bien largas y, además, estuve tomando notas, por lo que se alargan aún un poquito más.   
+
+Pero bueno paciencia y tiempo al tiempo que no hay que apurarse con estas cosas porque siempre sale mal.   
+
+----
+### ✍️ **Día 66 --> Martes 17 de Diciembre del 2024**  
+
+( ) 

@@ -657,6 +657,19 @@ Me está dando ansiedad por terminar este primer curso la verdad jajaja. Las úl
 Pero bueno paciencia y tiempo al tiempo que no hay que apurarse con estas cosas porque siempre sale mal.   
 
 ----
-### ✍️ **Día 66 --> Martes 17 de Diciembre del 2024**  
+### ✍️ **Día 66 --> Miércoles 18 de Diciembre del 2024**  
 
-( ) 
+(1hs de CS50 Python)  
+
+Uff... esta semana está siendo bastante intensa para mí. Por suerte ya llegan las vacaciones de navidad... el problema es llegar hasta esa fecha jajaj.  
+
+Estoy avanzando de a poco con la teórica de OOP. Realmente se me está haciendo larga y un poco caótica. Probablemente por mi culpa porque la estoy viendo en fragmentos pequeños de 30 min + el tiempo que uso para replicar los ejercicios; y eso hace que me quede toda la información cortada.  
+
+Pero bueno es lo mejor que puedo hacer en esta semana. Es eso o no avanzar nada, entonces prefiero un poco de caos por unos días.  
+
+Igualmente la teórica es larga y muy ambiciosa para mi gusto. El mundo de OOP es largo y además implica un cambio en la forma de pensar y estructurar los programas. Quizás trataron de condensar demasiados temas en una sola clase, pero bueno se agradece igual que hayan sumado el tema.  
+
+---
+### ✍️ **Día 67 --> Jueves 19 de Diciembre del 2024**    
+
+( )  

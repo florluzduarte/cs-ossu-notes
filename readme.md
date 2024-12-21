@@ -42,7 +42,7 @@ Fecha de inicio: 05/07/2024
 
 ### 1. Intro to CS:
 
-> [!TIP] 
+> [!NOTE] 
 > (For students to try out CS and see if it's right for them)  
 > **Topics covered**: `simple programs`  `simple data structures`  `computation`  `imperative programming`  `basic data structures and algorithms`  
 

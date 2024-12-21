@@ -670,6 +670,15 @@ Pero bueno es lo mejor que puedo hacer en esta semana. Es eso o no avanzar nada,
 Igualmente la teórica es larga y muy ambiciosa para mi gusto. El mundo de OOP es largo y además implica un cambio en la forma de pensar y estructurar los programas. Quizás trataron de condensar demasiados temas en una sola clase, pero bueno se agradece igual que hayan sumado el tema.  
 
 ---
-### ✍️ **Día 67 --> Jueves 19 de Diciembre del 2024**    
+### ✍️ **Día 67 --> Viernes 20 de Diciembre del 2024**    
 
-( )  
+(1hs de CS50 Python)  
+
+Finalmente pude completar la teórica de OOP. Aún me quedan pendientes para ver el fin de semana los shorts y empezar a trabajar en los ejercicios 💪  
+
+Por suerte voy a estar de vacaciones por las fiestas los próximos días, así que me voy a poner a trabajar con estas cosas a ver si llego a mi meta de completar el CS50P antes del 2025.  
+
+---
+### ✍️ **Día 68 --> Sábado 21 de Diciembre del 2024**    
+
+( )

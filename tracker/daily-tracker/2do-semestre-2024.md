@@ -2,11 +2,13 @@
 
 ----
 
-Fecha de inicio: 08/07/2024  
-Fecha de finalización: 
-Total días de estudio:  
-Total horas de estudio:  
-Notas:  
+**Fecha de inicio**: 08/07/2024  
+**Fecha de finalización**: 31/12/2024  
+**Total días de estudio**:  
+**Total horas de estudio**:  
+**Notas**:  
+- Tuve un período de inactividad de Agosto a Octubre mientras me estaba adaptando a mi nuevo trabajo. Eso hizo que este semestre no sea tan productivo como esperaba.  
+- Los meses en los que sí estuve activa, fueron muy buenos ya que pude mantener un ritmo constante en el que casi todos los días del mes estuve trabajando en contenidos de la OSSU.  
 
 ----
 ## Julio 2024
@@ -681,4 +683,24 @@ Por suerte voy a estar de vacaciones por las fiestas los próximos días, así q
 ---
 ### ✍️ **Día 68 --> Sábado 21 de Diciembre del 2024**    
 
-( )
+(0.5hs de CS50 Python)  
+
+Aproveché los momentos libres del sábado para ver todos los shorts de OOP 🥳  
+
+Además, llevo unos días leyendo un libro llamada "Data and Reality" que es algo totalmente opcional pero relacionado con todos los contenidos de OSSU; ya que el libro trata sobre el modelado de datos, en especial para DBs.  
+
+---
+### ✍️ **Día 69 --> Lunes 23 de Diciembre del 2024**  
+
+(2.5hs de CS50 Python)  
+
+Logré completar el primer ejercicio del PSET de OOP llamado `seasons.py`.  Si bien lo pude resolver tanto en formato función como orientado a objetos; no estoy muy contenta con el resultado.   
+
+La verdad es que no entendí muy bien la consigna y se me dificultó hacer los tests. OOP es un paradigma completamente diferente y por lo tanto es normal que al principio resulte raro, incómodo y verboso al pedo.  
+
+Pero bueno ahí lo estoy intentando, viendo cómo ir mejorando a la par de estos ejercicios.  
+
+---
+### ✍️ **Día 70 --> Martes 24 de Diciembre del 2024**  
+
+( )  

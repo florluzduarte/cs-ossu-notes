@@ -701,6 +701,17 @@ La verdad es que no entendí muy bien la consigna y se me dificultó hacer los t
 Pero bueno ahí lo estoy intentando, viendo cómo ir mejorando a la par de estos ejercicios.  
 
 ---
-### ✍️ **Día 70 --> Martes 24 de Diciembre del 2024**  
+### ✍️ **Día 70 --> Jueves 26 de Diciembre del 2024**  
 
-( )  
+(3hs de CS50 Python)  
+
+Si!!! Logré completar los últimos 2 ejercicios de OOP. La verdad es que fueron muy entretenidos y quedé bastante conforme con la implementación de los últimos desafíos.   
+
+Además pude aprender sobre una librería llamada `fpdf2` que permite generar archivos PDF y creo que me puede servir para el desafío final.  
+
+Empecé a ver la última teórica llamada `Et Cetera`, y aunque solo avancé unos pocos minutos (18 min para ser exactos), entiendo que será un cierre que deja la puerta abierta a más temas que quedaron colgados, o para los que faltó tiempo, a lo largo del curso.  
+
+---
+### ✍️ **Día 71 --> de Diciembre del 2024**  
+
+( ) 

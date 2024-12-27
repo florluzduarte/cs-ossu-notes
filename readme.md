@@ -28,7 +28,7 @@ Fecha de inicio: 05/07/2024
 - Fecha de inicio: 08/07/2024  
 - Fecha de finalización:  20/07/2024  
 
-💪 [Intermediate Algebra](https://openstax.org/details/books/intermediate-algebra-2e)
+⏳ [Intermediate Algebra](https://openstax.org/details/books/intermediate-algebra-2e)
 - Link lecciones: https://www.youtube.com/playlist?list=PL3F15A8958082DEDE
 - Fecha de inicio: 22/07/2024  
 - Fecha de finalización:  
@@ -47,14 +47,14 @@ Fecha de inicio: 05/07/2024
 > **Topics covered**: `simple programs`  `simple data structures`  `computation`  `imperative programming`  `basic data structures and algorithms`  
 
 
-💪 [CS50p: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
-- Institución: Harvard
-- Fecha de inicio: 05/07/2024
-- Fecha de finalización: 
-- Apuntes: [[cs50p-intro-cs-python]]
-- Repositorio: [Repositorio privado](https://github.com/florluzduarte/cs50-python)   
+✅ [CS50p: Introduction to Programming with Python](https://cs50.harvard.edu/python/)
+- Institución: Harvard  
+- Fecha de inicio: 05/07/2024  
+- Fecha de finalización: 27/12/2024  
+- Apuntes: [[cs50p-intro-cs-python]]   
+- Repositorio: [Repositorio privado](https://github.com/florluzduarte/cs50-python)      
 
-[Introduction to Computer Science and Programming using Python](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home)   
+[MIT - 6.100L - Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022)   
 - Institución: MIT   
 - Fecha inicio:   
 - Fecha finalización:  
@@ -68,19 +68,9 @@ Fecha de inicio: 05/07/2024
 
 ---
 #### 2A. CORE PROGRAMMING  
-**Topics covered**:
-`functional programming`
-`design for testing`
-`program requirements`
-`common design patterns`
-`unit testing`
-`object-oriented design`
-`static typing`
-`dynamic typing`
-`ML-family languages (via Standard ML)`
-`Lisp-family languages (via Racket)`
-`Ruby`
-`and more`  
+
+> [!Note]
+> **Topics covered**: `functional programming` `design for testing` `program requirements` `common design patterns` `unit testing` `object-oriented design` `static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Ruby` `and more`  
 
 [Systematic program design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
 - Institución: UBCx

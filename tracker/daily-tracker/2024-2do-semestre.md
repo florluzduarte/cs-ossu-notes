@@ -712,6 +712,28 @@ Además pude aprender sobre una librería llamada `fpdf2` que permite generar ar
 Empecé a ver la última teórica llamada `Et Cetera`, y aunque solo avancé unos pocos minutos (18 min para ser exactos), entiendo que será un cierre que deja la puerta abierta a más temas que quedaron colgados, o para los que faltó tiempo, a lo largo del curso.  
 
 ---
-### ✍️ **Día 71 --> de Diciembre del 2024**  
+### ✍️ **Día 71 --> Viernes 27 de Diciembre del 2024**  
 
-( ) 
+(3hs de CS50 Python)  
+
+No lo puedo creer! Terminé el curso CS50P 🥳   
+
+Qué buen curso por favor! Fue espectacular de principio a fin. Las teóricas, los ejercicios, la energía de David Malan en cada clase, los shorts con esos pequeños tips y datos útiles para aplicar... Es un rotundo 10/10 se lo recomendaría a cualquier persona que quiera aprender Python desde cero.  
+
+Hoy pude completar las 2 hs y pico que me quedaban de la teórica llamada `Et Cetera`. Estuvo muy buena y llena de cosas útiles que vale la pena seguir explorando para aprender más y aplicar en futuros proyectos.  
+
+Esta clase fue un compendio de cosas para volver a ver y aplicar ni bien aparezca la oportunidad, como: type hints, nuevas formas de generar listas y diccionarios de manera menos verbosa (list comprehensions y dict comprehensions), cómo aceptar parámetros múltiples en funciones pero sin límite usando `*args` y `**kwargs`, map, filter, repaso de lambda functions entre muchas cosas más.   
+
+Realmente hay mucha información de esta clase para procesar y volver a mirar en el futuro (no tan lejano).   
+
+Fue emocionante llegar al final de este viaje y me duele un poco saber que este curso fue hoy mismo removido del camino de aprendizaje de la OSSU, y reemplazado por otro curso del MIT.  
+
+Si bien entiendo las razones del cambio, no me arrepiento para nada de haber pasado por esta experiencia, y espero, que incorporen el CS50P a la lista de cursos opcionales sugeridos porque es realmente excelente.  
+
+Ahora sólo me queda armar mi proyecto final para ponerme aún más a prueba, pero la cursada se terminó, y logré cumplir mi objetivo de concluir este curso antes de que termine el 2024.  
+
+Por supuesto haré un artículo especial sobre mis opiniones, lo bueno y lo malo, consejos, entre otras cosas sobre esta experiencia y también un video para acompañar.   
+
+Por ahora me siento muy feliz con haber logrado este objetivo ✨   
+
+----

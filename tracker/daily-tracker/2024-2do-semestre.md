@@ -4,8 +4,8 @@
 
 **Fecha de inicio**: 08/07/2024  
 **Fecha de finalización**: 31/12/2024  
-**Total días de estudio**:  
-**Total horas de estudio**:  
+**Total días de estudio**:  71
+**Total horas de estudio**:  130 y un poquito 💪
 **Notas**:  
 - Tuve un período de inactividad de Agosto a Octubre mientras me estaba adaptando a mi nuevo trabajo. Eso hizo que este semestre no sea tan productivo como esperaba.  
 - Los meses en los que sí estuve activa, fueron muy buenos ya que pude mantener un ritmo constante en el que casi todos los días del mes estuve trabajando en contenidos de la OSSU.  
@@ -735,5 +735,14 @@ Ahora sólo me queda armar mi proyecto final para ponerme aún más a prueba, pe
 Por supuesto haré un artículo especial sobre mis opiniones, lo bueno y lo malo, consejos, entre otras cosas sobre esta experiencia y también un video para acompañar.   
 
 Por ahora me siento muy feliz con haber logrado este objetivo ✨   
+
+----
+
+### 🎯 **Resumen: Diciembre del 2024** 
+
+- Horas de estudio: 37 hs  
+- Temas: CS50 Python, Advent of Code    
+- Notas: Cierre de año con todo! 🚀
+
 
 ----

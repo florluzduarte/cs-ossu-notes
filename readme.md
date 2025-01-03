@@ -54,7 +54,7 @@ Fecha de inicio: 05/07/2024
 - Apuntes: [[cs50p-intro-cs-python]]   
 - Repositorio: [Repositorio privado](https://github.com/florluzduarte/cs50-python)      
 
-[MIT - 6.100L - Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022)   
+💪 [MIT - 6.100L - Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022)   
 - Institución: MIT   
 - Fecha inicio:   
 - Fecha finalización:  

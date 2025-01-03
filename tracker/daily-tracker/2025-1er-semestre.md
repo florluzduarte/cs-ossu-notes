@@ -32,4 +32,19 @@ En fin, seguiré trabajando con esto al menos una semana más, entre implementac
 ---
 ### ✍️ **Día 73 --> Viernes 04 de Enero del 2025**  
 
-( )
+(1.5hs de proyecto BookPal)  
+
+Pude armar los primeros diagramas de flujo de la app y además definir un poco más los comandos que voy a generar.  
+
+Armé el repo base y estuve creando el README.md para ayudarme a esclarecer mis ideas jajaja.  
+
+Muy feliz con el avance de hoy. Creo que va tomando forma, al menos conceptualmente. 
+
+Ya me quiero poner a codear pero a la vez no entiendo como ponerme a codear sin hacer todo este proceso previo.  
+
+Me acabo de dar cuenta que es el primer proyecto que voy a codear que NO tiene una UI asociada, y por eso estoy usando herramientas distintas para planificar y definir. Cool 😎 nuevas experiencias!  
+
+---
+### ✍️ **Día 74 --> de Enero del 2025** 
+
+( ) 

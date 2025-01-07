@@ -45,6 +45,34 @@ Ya me quiero poner a codear pero a la vez no entiendo como ponerme a codear sin 
 Me acabo de dar cuenta que es el primer proyecto que voy a codear que NO tiene una UI asociada, y por eso estoy usando herramientas distintas para planificar y definir. Cool 😎 nuevas experiencias!  
 
 ---
-### ✍️ **Día 74 --> de Enero del 2025** 
+### ✍️ **Día 74 --> Sábado 04 de Enero del 2025** 
+
+(1.5hs de proyecto BookPal)  
+
+Por fin me puse a codear! Luego de unos días de investigación decidí empezar por las clases que ya tengo más definidas y luego ir viendo cómo evoluciona.  
+
+Seguramente deba ir modificando cosas sobre la marcha pero al menos tengo una base sólida con la que empezar.  
+
+Pensé las clases más importantes que va a tener el proyecto con sus métodos y propiedades para hacerme la vida más simple.   
+
+También aprendí como trabajar con packages y modules para tener el código separado en carpetas. Algo que en JS doy por sentado en Python no tenía ni idea cómo hacerlo. Así que me tuve que poner a investigar sobre el tema porque es diferente.  
+
+Aprendí un poco sobre los archivos `__init__.py` y algunas buenas prácticas para tener una mejor estructura de proyecto.  
+
+---
+### ✍️ **Día 75 --> Lunes 06 de Enero del 2025** 
+
+(2hs de proyecto BookPal)  
+
+Estoy viendo algunos avances en esto. Me cuesta un poco porque no estoy tan acostumbrada a OOP, pero justamente por esa razón me propuse hacerlo de esta manera jaja.  
+
+La clase Book, que es una de las más importantes del sistema, está casi lista. De esta heredan otras dos más que voy a tener que generar pronto.  
+
+Siento que la diferencia en el nivel de dificultad entre: 1) hacer los challenges de CS50P y 2) armar mini proyectos de este estilo es abismal. No tengo ni una clase lista y ya tengo más producción que en todos los ejercicios de OOP juntos más o menos jajaja.   
+
+Pero bueno es un salto de calidad también poder armar algo más grande que sólo puzzles o PSETs.  
+
+---
+### ✍️ **Día 76 --> de Enero del 2025** 
 
 ( ) 

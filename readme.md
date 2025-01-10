@@ -432,15 +432,31 @@ Fecha de inicio: 05/07/2024
 
 #### 📚️ 4A. LIBROS
 
-💪 [The Linux Command Line](https://linuxcommand.org/tlcl.php)  (William Shotts - 5ta edición) 
+[The Linux Command Line](https://linuxcommand.org/tlcl.php)  (William Shotts - 5ta edición) 
 - Fecha de inicio: 16/07/2024  
 - Fecha de finalización:  
 - Apuntes: [[the-linux-command-line]]  
 
-💪 [Think Python](https://greenteapress.com/wp/think-python-2e/) (Allen B. Downey - 2da edición)  
+[Think Python](https://greenteapress.com/wp/think-python-2e/) (Allen B. Downey - 2da edición)  
 - Fecha de inicio: 19/07/2024  
 - Fecha de finalización:  
 - Apuntes:  [[think-python]] 
+
+#### ⚒️ 4B. PROYECTOS  
+
+| Nombre                                                  | Detalles                                                                              | Fecha de inicio<br>(YYYY-MM-DD) | Fecha de finalización<br>(YYYY-MM-DD) |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------- |
+| [BookPal](https://github.com/florluzduarte/bookpal-cli) | A CLI program to help you organize your reading lists 📖📚 Made with love and Python. | 2025-01-02                      |                                       |
+|                                                         |                                                                                       |                                 |                                       |
+
+#### 🤓 4C. CURSOS COMPLEMENTARIOS  
+
+
+| Nombre | Detalles | Fecha de inicio<br>(YYYY-MM-DD) | Fecha de finalización<br>(YYYY-MM-DD) |
+| ------ | -------- | ------------------------------- | ------------------------------------- |
+|        |          |                                 |                                       |
+|        |          |                                 |                                       |
+
 
 ----
 

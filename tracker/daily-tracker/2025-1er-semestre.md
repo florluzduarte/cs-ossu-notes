@@ -73,6 +73,26 @@ Siento que la diferencia en el nivel de dificultad entre: 1) hacer los challenge
 Pero bueno es un salto de calidad también poder armar algo más grande que sólo puzzles o PSETs.  
 
 ---
-### ✍️ **Día 76 --> de Enero del 2025** 
+### ✍️ **Día 76 --> Miércoles 08 de Enero del 2025** 
 
-( ) 
+(1,5hs de proyecto BookPal)  
+
+Voy avanzando 💪 Ya tengo las primeras 3 clases listas: Book, BookRead, BookListed. 
+
+Por un momento me desmotivé porque esta semana no le pude dedicar tanto tiempo al estudio. Luego me acordé que estaba comparando una semana de full trabajo y estudio con mis días de vacaciones y se me pasó jajaja 🤣  
+
+Parece que no está pasando nada, pero ya están ocurriendo magias, sólo necesito confiar en el proceso.  
+
+----
+### ✍️ **Día 77 --> Jueves 09 de Enero del 2025** 
+
+(1,5 hs de proyecto BookPal)  
+
+Pude armar la clase `BookGenerator` para gestionar los inputs de los usuarios y el proyecto empieza a cobrar forma. 
+
+Aún me quedan cosas para hacer pero al ir trabajando con el manejo de inputs me da la sensación de que avancé bastante en un par de horas.  
+
+---
+### ✍️ **Día 78 --> de Enero del 2025** 
+
+( )  

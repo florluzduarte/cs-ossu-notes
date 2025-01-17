@@ -93,6 +93,53 @@ Pude armar la clase `BookGenerator` para gestionar los inputs de los usuarios y 
 Aún me quedan cosas para hacer pero al ir trabajando con el manejo de inputs me da la sensación de que avancé bastante en un par de horas.  
 
 ---
-### ✍️ **Día 78 --> de Enero del 2025** 
+### ✍️ **Día 78 --> Martes 14 de Enero del 2025** 
+
+(1,5 de proyecto BookPal)  
+
+Pude avanzar un poco más con los class methods de `BookGenerator`. Fueron unos días de corridas y me siento mal por no poder dedicarle el tiempo suficiente a avanzar con esto.  
+
+Dejé implementada una librería llamada Pick para hacer los inputs de selección y funciona muy bien la verdad. Es simple y da un buen efecto.  
+
+Ahora también tengo un título de la app con onda, gracias a Pyfiglet.  
+
+Quiero completar la clase de `BookGenerator` para poder avanzar hacia las clases más complejas que son el manejador de comandos y el controller de los archivos. 
+
+Sin esas clases aún no termina de cuadrar la idea. Va avanzando pero faltan tantas partes que es difícil entender qué me está faltando y si algo falla pero a nivel más conceptual.  
+
+Pasa que mi tiempo ha sido tan disgregado para este proyecto que es un lío entender el progreso que voy haciendo y cuántas cosas podrían faltar.  
+
+También me quedan pendientes y para ponerme las pilas los tests de todas las clases y funciones auxiliares. Necesito revisar cómo configurar la carpeta de tests y como correr todos los tests juntos con Pytest.  
+
+En fin bastante más trabajo del que esperaba.  
+
+---
+### ✍️ **Día 79 --> Miércoles 15 de Enero del 2025** 
+
+(1.5 hs de BookPal)    
+
+Por fin pude terminar la clase `BookGenerator` 🎉 y está funcionado genial. Ya se generan desde un método los libros de tipo leído y por leer.  
+
+Ahora puedo dedicarme a armar una nueva clase para manejar los comandos, y también, me toca revisar cómo voy a hacer las conexiones para que se vayan almacenando los libros en sus correspondientes archivos CSV.  
+
+También implementé la librería `Rich` para poder darle un poco de estilo a los outputs de la terminal. La verdad resultó muy fácil de usar y brinda muy buenas herramientas, como soporte para emojis, colores y tablas; todo dentro de la terminal y orientado para CLI.  
+
+Además funciona para cualquier sistema operativo, lo cual es un golazo porque otras herramientas no funcionan en Windows.  
+
+----
+### ✍️ **Día 80 --> Jueves 16 de Enero del 2025** 
+
+(2hs de BookPal)  
+
+Por fin pude armar un videíto mostrable sobre el funcionamiento de esta app 🥳. Armé la nueva clase `CommandHandler` y el flujo de la app empezó a cobrar forma.  
+
+Ahora puedo seleccionar el archivo sobre el que quiero trabajar: `finished-books` o `wishlist-books` y eso dispara los comandos disponibles para ambos archivos.   
+
+Todavía no se está persistiendo la data generada en ninguna parte, pero, al menos el funcionamiento para agregar un nuevo libro está tomando forma. Solo faltan las conexiones con los archivos que es de las próximas tareas que me gustaría tomar.  
+
+Además implementé el método `--help` con información útil sobre el programa y el proyecto.  
+
+----
+### ✍️ **Día 81 --> de Enero del 2025** 
 
 ( )  

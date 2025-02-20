@@ -140,6 +140,31 @@ Todavía no se está persistiendo la data generada en ninguna parte, pero, al me
 Además implementé el método `--help` con información útil sobre el programa y el proyecto.  
 
 ----
-### ✍️ **Día 81 --> de Enero del 2025** 
+
+## **Febrero 2025** 
+
+### ✍️ **Día 81 --> 19 de Febrero del 2025** 
+
+(1hs)
+
+Han pasado mil años una vez más, pero finalmente acabo de empezar con el curso del MIT 6.100L. 
+
+Tuve muchísimo trabajo este último mes y no pude priorizar el estudio en la OSSU, así que estoy feliz de volver. 
+
+Hoy pude ver la mitad de la primera lectura. Decidí ir tomando notas de las teóricas para no desconcentrarme y me está funcionando. Al menos me sirve para pensar 2 veces sobre los temas que se explican, aunque de momento son muy simples. 
+
+Este curso empieza desde cero y me imagino que las primeras clases serán un poco aburridas, pero espero poder aprovechar esa simpleza para avanzar más rápido y fortalecer lo que ya aprendí en el curso anterior.
+
+----
+
+### ✍️ **Día 82 --> 20 de Febrero del 2025**
+
+(1.5 hs de MIT 6.100L)  
+
+Pude completar la primera teórica y el primer set de ejercicios. Hasta ahora todo súper simple como era de esperar.
+
+----
+
+### ✍️ **Día 83 --> de Febrero del 2025**
 
 ( )  

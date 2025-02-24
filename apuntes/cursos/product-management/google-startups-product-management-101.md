@@ -15,7 +15,7 @@ Product managers are the strategics leaders of their products. They deeply under
 - Understand their problems
 - Build solutions that addresses their pain points  
 
-**Communication ** 
+**Communication** 
 - Work closely with engineering, design, marketing, sales and more to bring the product to life
 - Communicate priorities and manage trade-offs  
 
@@ -89,4 +89,39 @@ PMs juggle this responsibilities and activities according to the priorities of t
  - Share learnings with the team  
  - Use learnings to iterate on product improvement  
 
-(18.24)  
+As a Product Manager, one frequent problem ir to focus too much on the current fires (daily tasks) and not dedicate enough efforts into the long term vision of a product. 
+
+Both things are necessary for the success of the product and team, but usually the long term vision is the most relegated task and is a critical one to monitor regularly. 
+
+Many PMs block time of their agendas to avoid falling in this common trap and to have a space to just focus on long term thinking.  
+
+-----
+## c. Attributes of successful Product Managers  
+
+### 01. Focus on the user and all else will follow  
+
+- Be user focused, actually user obsessed  
+- Develop use empathy by deeply understanding user needs and pain points (Do a lot of user research: user interviews, user feedback, product metrics analysis, market research, etc.).  
+- Ensure the solutions you build solve actual user problems  
+- Start with the user problem and then define solutions  
+
+### 02. Bias towards action 
+
+- Make decision quicker even if you don't have enough data and are uncertain of the outcome  
+- Launch MVP products to get rapid user feedback 
+- Value learning over perfect initial launch  
+- Always keep looking for product opportunities  
+- Proactively share work-in-progress drafts, meeting notes and clear agenda to boost team efficiency   
+
+### 03. Insights drive our work  
+
+
+
+### 04. There is nothing like over communication 
+
+
+
+### 05. "Saying NO" to prioritize and innovate  
+
+
+(24:26)  
